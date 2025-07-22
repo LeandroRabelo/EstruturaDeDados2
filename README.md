@@ -15,14 +15,21 @@ A estrutura de arquivos é a seguinte:
 |-- gerador_clientes.py
 |-- gerador_pedidos.py
 |
-|-- Modulo1/
+|-- modulo1/
 |   |-- buscas.py
 |
+|-- modulo2/
+|   |-- compressao.py
+|   |-- hashing.py
+|   |-- desafios_mod2.py
+|   |-- gerador_log.py
+|
 |-- Dados/
-    |-- clientes.py
-    |-- pedidos.py
-    |-- clientes.txt
-    |-- pedidos.txt
+|   |-- clientes.py
+|   |-- pedidos.py
+|   |-- clientes.txt
+|   |-- pedidos.txt
+|   |-- log_diario.txt
 ```
 
 As responsabilidades de cada componente são:
@@ -38,9 +45,16 @@ As responsabilidades de cada componente são:
 
 * **`gerador_*.py`**: Scripts auxiliares criados para popular os arquivos `.txt` com uma grande massa de dados (Pode-se definir a quantidade de Clientes e Pedidos), permitindo testes de desempenho mais realistas.
 
+O `Modulo2/` segue a filosofia geral do projeto:
+
+* **`compressao.py` e `hashing.py`**: Contêm as classes e funções puras dos algoritmos. São os "motores" que realizam todo o trabalho pesado.
+* **`gerador_log.py`**: Script auxiliar para gerar logs de exemplo, fornecendo uma massa de dados realista para os testes de compressão.
+* **`desafios_mod2.py`**: Contém a camada de interface e gamificação (`menu_compressao` e `menu_hashing`), que dá um contexto de logística para os algoritmos e permite a interação do usuário.
+
+
 ## 2. Implementação e Integração dos Algoritmos
 
-Cada algoritmo foi implementado em `Modulo1/buscas.py` e depois integrado ao `Main.py` como um "desafio" interativo com tema de logística.
+Cada algoritmo foi implementado em `modulo1/buscas.py`, `modulo2/compressao`, `modulo2/hashing` e depois integrado ao `main.py` como um "desafio" interativo com tema de logística.
 
 ### Busca Sequencial
 
@@ -71,6 +85,27 @@ Cada algoritmo foi implementado em `Modulo1/buscas.py` e depois integrado ao `Ma
     3.  Chama a `busca_rabin_karp` para obter a lista de índices das ocorrências.
     4.  Processa esses índices para apresentar um relatório amigável, informando a **linha e o caractere** de cada ocorrência encontrada.
 
+### Compressão de Huffman
+
+* **Implementação:** A função `compactar` em `compressao.py` implementa o algoritmo em etapas: primeiro, calcula a frequência de cada caractere; segundo, usa uma fila de prioridade (min-heap) para construir a árvore de Huffman; terceiro, percorre a árvore para gerar os códigos de prefixo; e finalmente, usa a biblioteca `pickle` para serializar e salvar a árvore, que é essencial para a descompressão.
+
+* **Integração (Desafio 1):** No minigame "O Pacto de Transmissão de Dados", a interface em `desafios_mod2.py`:
+    1.  Permite gerar um arquivo de log de exemplo (`log_diario.txt`) com dados repetitivos.
+    2.  Chama a função `compactar()` para comprimir o log e salvar os arquivos `.huff` e `.tree`.
+    3.  Exibe um relatório detalhado com a taxa de redução de dados.
+    4.  Chama a função `descompactar()` para restaurar o arquivo original, demonstrando a integridade do processo.
+
+### Hashing
+
+* **Implementação:** A classe `TabelaHash` em `hashing.py` implementa uma tabela de hash com tratamento de colisões por **Encadeamento Separado**, utilizando uma lista de listas como "baldes". Foram implementadas as duas funções de hash sorteadas para o integrante Leandro: **Transformação da Raiz** e **Meio-Quadrado**. Ambas as funções convertem a chave (string) em um número antes de aplicar seus respectivos cálculos.
+
+* **Integração (Desafio 2):** No minigame "Central de Operações em Tempo Real", a interface em `desafios_mod2.py`:
+    1.  Permite ao usuário criar uma `TabelaHash` de tamanho e função personalizáveis.
+    2.  Oferece uma opção para popular a tabela automaticamente com uma frota de 50 veículos de exemplo.
+    3.  Simula uma busca de emergência por placa, medindo e exibindo o tempo de execução da busca para provar a velocidade do acesso.
+    4.  Apresenta estatísticas (fator de carga, colisões) para analisar a qualidade da distribuição da função de hash.
+
+
 ## 3. Análise de Complexidade e Eficiência
 
 A análise teórica da complexidade (Big O) foi claramente confirmada pelos resultados práticos observados nos desafios.
@@ -89,3 +124,15 @@ A análise teórica da complexidade (Big O) foi claramente confirmada pelos resu
 
 * **Complexidade Teórica:** Em média, **O(n + m)**, onde `n` é o tamanho do texto e `m` o do padrão. É linear em relação ao tamanho do texto, o que é muito eficiente. No pior caso (cenários com muitas colisões de hash), pode degradar para **O(nm)**.
 * **Eficiência Observada:** O Desafio 3 demonstrou sua aplicação prática. A eficiência não foi medida em comparação com os outros algoritmos (pois o problema é diferente), mas em sua capacidade de realizar uma tarefa complexa (encontrar todas as ocorrências de um padrão) de forma rápida em um texto grande. A técnica de *rolling hash* permitiu que a varredura do manifesto de 100 itens fosse quase instantânea.
+
+### Compressão de Huffman
+
+* **Complexidade Teórica:** **$O(N + K \log K)$**, onde `N` é o tamanho do texto e `K` o número de caracteres únicos. A complexidade é dominada pela construção da árvore, sendo muito eficiente para grandes volumes de dados.
+* **Eficiência Observada:** O desafio prático confirma a eficácia do algoritmo. Em logs com textos repetitivos, a taxa de redução de dados é expressiva, superando 50%. Isso, em um cenário real, representa uma economia direta de custos de armazenamento e de banda para transmissão de dados.
+
+### Hashing
+
+* **Complexidade Teórica:** Para busca, inserção e remoção, a complexidade de caso médio é **$O(1)$** (tempo constante). No pior caso (muitas colisões no mesmo "balde"), a complexidade degrada para **$O(M)$**, onde `M` é o número de itens na tabela.
+* **Eficiência Observada:** A simulação da "Central de Operações" é a prova prática do poder do $O(1)$. A busca por uma placa em uma tabela com 50 veículos é **instantânea**, com o tempo de resposta medido em microssegundos. O resultado não sofre alteração perceptível de tempo, independentemente de qual veículo é buscado, confirmando que o acesso não depende do tamanho da coleção de dados, mas sim da eficiência da função de hash em calcular o "atalho" para o dado.
+
+Fontes
