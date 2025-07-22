@@ -60,83 +60,106 @@ FROTA_EXEMPLO = [
 ]
 
 def menu_compressao():
-    caminho_dados = os.path.dirname(os.path.abspath(__file__))
-    caminho_raiz_projeto = os.path.dirname(caminho_dados)
-    diretorio_saida = os.path.join(caminho_raiz_projeto, "Dados")
+    """Interface de usuário gamificada para o desafio de compressão de Huffman."""
     
-    os.makedirs(diretorio_saida, exist_ok=True)
+    # Lógica de caminho absoluto para definir a pasta 'Dados' como o local de trabalho
+    caminho_deste_script = os.path.dirname(os.path.abspath(__file__))
+    caminho_raiz_projeto = os.path.dirname(caminho_deste_script)
+    diretorio_dados = os.path.join(caminho_raiz_projeto, "Dados")
+    
+    os.makedirs(diretorio_dados, exist_ok=True)
 
     while True:
-        print("\n--- Desafio: Arquivamento com Compressão Huffman ---")
-        print(f"(Arquivos de entrada e saída estarão na pasta '{diretorio_saida}/')")
-        print("1. Gerar arquivo de log de exemplo")
-        print("2. Comprimir um arquivo")
-        print("3. Descomprimir um arquivo")
+        print("\n" + "="*60)
+        print("--- DESAFIO 1: O PACTO DE TRANSMISSÃO DE DADOS (HUFFMAN) ---")
+        print("="*60)
+        print("\n[CENA]: A nova frota de veículos envia logs de status a cada minuto.")
+        print("        O custo com a transmissão de dados está saindo do controle.")
+        print("\n[MISSÃO]: Usar a compressão de Huffman para 'encolher' os pacotes de dados")
+        print("        antes de serem enviados, economizando custos e banda.")
+        
+        print("\n--- Central de Comunicação ---")
+        print(f"(Os pacotes de dados (logs) estão na pasta '{diretorio_dados}/')")
+        print("1. Simular recebimento de novo Pacote de Dados (Gerar Log)")
+        print("2. Comprimir Pacote de Dados para Transmissão")
+        print("3. Ler Pacote de Dados Comprimido (Descomprimir)")
         print("0. Voltar")
         
         escolha = input("Escolha uma opção: ").strip()
 
         if escolha == '1':
             gerador_log.gerar_log()
+            input('\nPressione Enter para continuar...')
             
         elif escolha == '2':
-            arquivo_input_nome = input("Digite o nome do arquivo para comprimir (ex: log_diario.txt): ").strip()
+            arquivo_input_nome = input("Digite o nome do pacote de dados a comprimir (ex: log_diario.txt): ").strip()
             
-            caminho_original = os.path.join(diretorio_saida, arquivo_input_nome)
+            caminho_original = os.path.join(diretorio_dados, arquivo_input_nome)
 
             if not os.path.exists(caminho_original):
-                print(f"ERRO: Arquivo '{caminho_original}' não encontrado.")
+                print(f"ERRO: Pacote de dados '{caminho_original}' não encontrado.")
                 continue
 
             with open(caminho_original, 'r', encoding='utf-8') as f:
                 texto = f.read()
 
+            print("\n[SISTEMA]: Analisando frequências de caracteres e construindo a Árvore de Huffman...")
+            time.sleep(1)
             texto_compactado, arvore = compressao.compactar(texto)
+            print("[SISTEMA]: Compressão finalizada.")
             
             nome_base = os.path.basename(caminho_original)
+            arquivo_comprimido_nome = os.path.join(diretorio_dados, nome_base + ".huff")
+            arvore_nome = os.path.join(diretorio_dados, nome_base + ".tree")
+
+            with open(arquivo_comprimido_nome, 'w', encoding='utf-8') as f: f.write(texto_compactado)
+            with open(arvore_nome, 'wb') as f: pickle.dump(arvore, f)
+
+            tamanho_original_bytes = os.path.getsize(caminho_original)
+            tamanho_comprimido_bits = len(texto_compactado)
+            tamanho_original_bits = tamanho_original_bytes * 8
             
-            arquivo_comprimido_nome = os.path.join(diretorio_saida, nome_base + ".huff")
-            arvore_nome = os.path.join(diretorio_saida, nome_base + ".tree")
+            if tamanho_original_bits == 0: reducao = 0
+            else: reducao = 100 * (1 - (tamanho_comprimido_bits / tamanho_original_bits))
 
-            with open(arquivo_comprimido_nome, 'w', encoding='utf-8') as f:
-                f.write(texto_compactado)
+            print("\n--- RELATÓRIO DO PACTO DE TRANSMISSÃO ---")
+            print(f"Tamanho Original do Pacote: {tamanho_original_bytes / 1024:.2f} KB")
+            print(f"Tamanho Após Compressão:   {tamanho_comprimido_bits / 8 / 1024:.2f} KB (Teórico)")
+            print(f"Taxa de Redução de Dados:   {reducao:.2f}%")
+            print("-----------------------------------------")
+            print(f"[CONCLUSÃO]: O pacote de dados agora está {reducao:.2f}% menor!")
+            print("             Transmissão mais rápida, barata e confiável.")
 
-            with open(arvore_nome, 'wb') as f:
-                pickle.dump(arvore, f)
-
-            print("\n--- RELATÓRIO DE COMPRESSÃO ---")
-            print(f"Arquivo original: {caminho_original}")
-            print(f"Arquivo comprimido salvo como: {arquivo_comprimido_nome}")
-            print("---------------------------------")
-
-
+            input('\nPressione Enter para continuar...')
+            
         elif escolha == '3':
-            arquivo_comprimido = input(f"Digite o nome do arquivo .huff para descomprimir: ").strip()
-
-            caminho_completo_comprimido = os.path.join(diretorio_saida, arquivo_comprimido)
+            arquivo_comprimido = input(f"Digite o nome do pacote .huff para ler: ").strip()
+            
+            caminho_completo_comprimido = os.path.join(diretorio_dados, arquivo_comprimido)
             caminho_completo_arvore = caminho_completo_comprimido.replace('.huff', '.tree')
 
             if not os.path.exists(caminho_completo_comprimido):
-                print(f"ERRO: Arquivo não encontrado em '{diretorio_saida}/'.")
+                print(f"ERRO: Pacote não encontrado em '{diretorio_dados}/'.")
                 continue
 
-            with open(caminho_completo_comprimido, 'r', encoding='utf-8') as f:
-                texto_compactado = f.read()
-            with open(caminho_completo_arvore, 'rb') as f:
-                arvore = pickle.load(f)
+            print("\n[SISTEMA]: Lendo pacote comprimido e reconstruindo dados com a Árvore de Huffman...")
+            time.sleep(1)
+            with open(caminho_completo_comprimido, 'r') as f: texto_compactado = f.read()
+            with open(caminho_completo_arvore, 'rb') as f: arvore = pickle.load(f)
 
             texto_descompactado = compressao.descompactar(texto_compactado, arvore)
-            
+
             nome_base_sem_ext = os.path.splitext(arquivo_comprimido)[0]
             arquivo_descomprimido_nome = f"{nome_base_sem_ext}_DESCOMPRIMIDO.txt"
-            caminho_saida_descomprimido = os.path.join(diretorio_saida, arquivo_descomprimido_nome)
+            caminho_saida_descomprimido = os.path.join(diretorio_dados, arquivo_descomprimido_nome)
 
-            with open(caminho_saida_descomprimido, "w", encoding="utf-8") as f:
-                f.write(texto_descompactado)
+            with open(caminho_saida_descomprimido, "w", encoding="utf-8") as f: f.write(texto_descompactado)
             
-            print("\n--- DESCOMPRESSÃO REALIZADA ---")
-            print(f"Arquivo salvo com sucesso em: '{caminho_saida_descomprimido}'")
-            print("---------------------------------")
+            print("\n--- LEITURA DO PACOTE CONCLUÍDA ---")
+            print(f"✅ Dados 100% restaurados e salvos em: '{caminho_saida_descomprimido}'")
+            print("------------------------------------")
+            
+            input('\nPressione Enter para continuar...')
             
         elif escolha == '0':
             break
@@ -186,6 +209,7 @@ def menu_hashing():
                     
                     tabela_hash = TabelaHash(tamanho, nome_func)
                     print(f"\n✅ Índice de Acesso Rápido configurado com {tamanho} posições usando '{nome_func}'!")
+                    input('\nPressione Enter para continuar...')
                 except ValueError:
                     print("Erro: O tamanho deve ser um número inteiro.")
             elif escolha == '0':
@@ -200,6 +224,7 @@ def menu_hashing():
                 valor = {"motorista": motorista, "modelo": modelo, "placa": placa}
                 tabela_hash.inserir(placa, valor)
                 print(f"Veículo com placa '{placa}' cadastrado no Índice.")
+                input('\nPressione Enter para continuar...')
 
             elif escolha == '2':
                 print("\n[SISTEMA]: Populando o Índice com a frota de 50 veículos...")
@@ -229,6 +254,7 @@ def menu_hashing():
                 print(f"Motorista: {resultado['motorista']}")
                 print(f"Modelo: {resultado['modelo']}")
                 print(f"\n⏱️ Tempo de busca no Índice: {tempo_total:.8f} segundos.")
+                input('\nPressione Enter para continuar...')
 
             elif escolha == '4':
                 placa = input("Digite a placa do veículo a ser descomissionado: ").upper()
@@ -236,6 +262,7 @@ def menu_hashing():
                     print(f"Veículo '{placa}' removido do Índice.")
                 else:
                     print(f"Veículo '{placa}' não encontrado no Índice.")
+                    input('\nPressione Enter para continuar...')
 
             elif escolha == '5':
                 tabela_hash.exibir_estatisticas()
@@ -243,6 +270,7 @@ def menu_hashing():
             elif escolha == '6':
                 tabela_hash = None
                 print("Índice de Acesso Rápido reiniciado.")
+                input('\nPressione Enter para continuar...')
             
             elif escolha == '0':
                 break
