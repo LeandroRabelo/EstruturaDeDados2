@@ -1,1200 +1,1200 @@
-9001,Filtro de Água de Torneira,531
-9002,Mochila Executiva Antifurto,440
-9003,Monitor UltraWide 34,455
-9004,Smartphone Z10,145
-9005,Notebook Pro S,160
-9006,Fone com Cancelamento de Ruído,138
-9007,Microfone Condensador USB,553
-9008,Mochila Executiva Antifurto,190
-9009,Climatizador de Ar,138
-9010,Kit de Chaves de Precisão,178
-9011,Projetor Portátil LED,570
-9012,Roteador Mesh 3-pack,516
-9013,Impressora a Laser,486
-9014,Microfone Condensador USB,385
-9015,Caixa de Som Bluetooth Xtreme,433
-9016,Tablet 11 polegadas,208
-9017,Câmera de Vigilância IP,119
-9018,Microfone Condensador USB,581
-9019,Tablet 11 polegadas,317
-9020,Notebook Pro S,113
-9021,SSD Externo 2TB,222
-9022,Kit de Chaves de Precisão,448
-9023,Smartwatch Fit Pro,434
-9024,Aspirador de Pó Robô,421
-9025,Mochila Executiva Antifurto,131
-9026,Impressora a Laser,122
-9027,Smartphone Z10,449
-9028,Cadeira Gamer Confort,394
-9029,Cadeira de Escritório Tela Mesh,326
-9030,Kit de Chaves de Precisão,235
-9031,Caixa de Som Bluetooth Xtreme,140
-9032,Livro: Estruturas de Dados,283
-9033,SSD Externo 2TB,166
-9034,Fone com Cancelamento de Ruído,349
-9035,Caixa de Som Bluetooth Xtreme,324
-9036,Lâmpada Inteligente Wi-Fi,561
-9037,Teclado Luminoso,177
-9038,Batedeira Planetária,329
-9039,Kit de Chaves de Precisão,529
-9040,Projetor Portátil LED,142
-9041,Aspirador de Pó Robô,390
-9042,Panela de Arroz Elétrica,288
-9043,Notebook Pro S,268
-9044,Webcam Full HD,172
-9045,Caixa de Som Bluetooth Xtreme,507
-9046,Mochila Executiva Antifurto,259
-9047,Aspirador de Pó Robô,486
-9048,Mesa Digitalizadora,586
-9049,Teclado Luminoso,598
-9050,Máquina de Café em Cápsulas,126
-9051,Cadeira de Escritório Tela Mesh,447
-9052,Impressora a Laser,453
-9053,SSD Externo 2TB,419
-9054,Cadeira Gamer Confort,510
-9055,Cadeira de Escritório Tela Mesh,463
-9056,Câmera de Vigilância IP,338
-9057,Lâmpada Inteligente Wi-Fi,196
-9058,Teclado Luminoso,469
-9059,Projetor Portátil LED,135
-9060,Aspirador de Pó Robô,459
-9061,Teclado Luminoso,436
-9062,Filtro de Água de Torneira,123
-9063,Mochila Executiva Antifurto,576
-9064,Roteador Mesh 3-pack,215
-9065,Microfone Condensador USB,477
-9066,Smartphone Z10,318
-9067,Batedeira Planetária,376
-9068,Mouse Vertical Ergonômico,446
-9069,Tablet 11 polegadas,509
-9070,Batedeira Planetária,501
-9071,Mochila Executiva Antifurto,219
-9072,Mesa Digitalizadora,128
-9073,Aspirador de Pó Robô,468
-9074,Câmera de Vigilância IP,292
-9075,Webcam Full HD,476
-9076,Teclado Luminoso,572
-9077,Tablet 11 polegadas,264
-9078,Livro: Estruturas de Dados,488
-9079,Microfone Condensador USB,560
-9080,Climatizador de Ar,557
-9081,Fone com Cancelamento de Ruído,299
-9082,Monitor UltraWide 34,564
-9083,Câmera de Vigilância IP,389
-9084,Tablet 11 polegadas,127
-9085,Tablet 11 polegadas,342
-9086,Monitor UltraWide 34,548
-9087,Caixa de Som Bluetooth Xtreme,402
-9088,Batedeira Planetária,375
-9089,Lâmpada Inteligente Wi-Fi,539
-9090,Monitor UltraWide 34,106
-9091,Cadeira de Escritório Tela Mesh,576
-9092,Kit de Chaves de Precisão,420
-9093,Tablet 11 polegadas,564
-9094,Sapato Social de Couro,142
-9095,Lâmpada Inteligente Wi-Fi,420
-9096,Tablet 11 polegadas,289
-9097,Caixa de Som Bluetooth Xtreme,530
-9098,Notebook Pro S,161
-9099,Projetor Portátil LED,184
-9100,Máquina de Café em Cápsulas,139
-9101,Roteador Mesh 3-pack,241
-9102,Smartphone Z10,418
-9103,Câmera de Vigilância IP,487
-9104,Smartphone Z10,348
-9105,Roteador Mesh 3-pack,470
-9106,Cadeira de Escritório Tela Mesh,394
-9107,Monitor UltraWide 34,373
-9108,Smartphone Z10,286
-9109,Filtro de Água de Torneira,496
-9110,Mesa Digitalizadora,208
-9111,Kit de Chaves de Precisão,541
-9112,Livro: Estruturas de Dados,159
-9113,SSD Externo 2TB,445
-9114,Aspirador de Pó Robô,354
-9115,Sapato Social de Couro,293
-9116,Máquina de Café em Cápsulas,426
-9117,Sapato Social de Couro,381
-9118,Cadeira Gamer Confort,280
-9119,Climatizador de Ar,179
-9120,Filtro de Água de Torneira,157
-9121,Sapato Social de Couro,419
-9122,Webcam Full HD,192
-9123,Projetor Portátil LED,328
-9124,Kit de Chaves de Precisão,404
-9125,Sapato Social de Couro,423
-9126,Impressora a Laser,230
-9127,Kit de Chaves de Precisão,197
-9128,Panela de Arroz Elétrica,319
-9129,Kit de Chaves de Precisão,542
-9130,Mochila Executiva Antifurto,503
-9131,Monitor UltraWide 34,176
-9132,Filtro de Água de Torneira,109
-9133,Mesa Digitalizadora,599
-9134,Cadeira de Escritório Tela Mesh,164
-9135,SSD Externo 2TB,398
-9136,Máquina de Café em Cápsulas,569
-9137,Mochila Executiva Antifurto,464
-9138,Aspirador de Pó Robô,203
-9139,Fone com Cancelamento de Ruído,104
-9140,Panela de Arroz Elétrica,150
-9141,Smartwatch Fit Pro,263
-9142,Caixa de Som Bluetooth Xtreme,298
-9143,Filtro de Água de Torneira,515
-9144,Fone com Cancelamento de Ruído,195
-9145,Teclado Luminoso,274
-9146,Máquina de Café em Cápsulas,185
-9147,Climatizador de Ar,296
-9148,Roteador Mesh 3-pack,446
-9149,Cadeira Gamer Confort,553
-9150,Webcam Full HD,538
-9151,Máquina de Café em Cápsulas,451
-9152,Filtro de Água de Torneira,341
-9153,Cadeira Gamer Confort,106
-9154,Roteador Mesh 3-pack,588
-9155,Panela de Arroz Elétrica,156
-9156,Filtro de Água de Torneira,134
-9157,Mouse Vertical Ergonômico,140
-9158,Teclado Luminoso,530
-9159,Kit de Chaves de Precisão,230
-9160,Impressora a Laser,311
-9161,Monitor UltraWide 34,256
-9162,Mochila Executiva Antifurto,328
-9163,Smartwatch Fit Pro,431
-9164,Microfone Condensador USB,244
-9165,Caixa de Som Bluetooth Xtreme,562
-9166,Kit de Chaves de Precisão,580
-9167,Câmera de Vigilância IP,493
-9168,Filtro de Água de Torneira,160
-9169,Smartwatch Fit Pro,505
-9170,Monitor UltraWide 34,239
-9171,Projetor Portátil LED,128
-9172,Teclado Luminoso,102
-9173,Lâmpada Inteligente Wi-Fi,297
-9174,Mesa Digitalizadora,517
-9175,Tablet 11 polegadas,166
-9176,Roteador Mesh 3-pack,153
-9177,Teclado Luminoso,131
-9178,Filtro de Água de Torneira,317
-9179,Smartwatch Fit Pro,369
-9180,Webcam Full HD,216
-9181,Webcam Full HD,474
-9182,Cadeira de Escritório Tela Mesh,249
-9183,SSD Externo 2TB,233
-9184,Microfone Condensador USB,390
-9185,Climatizador de Ar,475
-9186,Sapato Social de Couro,203
-9187,Panela de Arroz Elétrica,366
-9188,Climatizador de Ar,395
-9189,SSD Externo 2TB,211
-9190,Monitor UltraWide 34,349
-9191,Mesa Digitalizadora,280
-9192,Notebook Pro S,190
-9193,Monitor UltraWide 34,368
-9194,Câmera de Vigilância IP,455
-9195,Webcam Full HD,395
-9196,Smartphone Z10,115
-9197,Caixa de Som Bluetooth Xtreme,306
-9198,Máquina de Café em Cápsulas,223
-9199,Filtro de Água de Torneira,534
-9200,Mouse Vertical Ergonômico,150
-9201,Lâmpada Inteligente Wi-Fi,509
-9202,Lâmpada Inteligente Wi-Fi,368
-9203,Fone com Cancelamento de Ruído,358
-9204,Cadeira Gamer Confort,241
-9205,Mochila Executiva Antifurto,209
-9206,Aspirador de Pó Robô,388
-9207,Cadeira Gamer Confort,309
-9208,SSD Externo 2TB,246
-9209,Panela de Arroz Elétrica,161
-9210,Smartwatch Fit Pro,491
-9211,SSD Externo 2TB,231
-9212,Aspirador de Pó Robô,395
-9213,Câmera de Vigilância IP,341
-9214,SSD Externo 2TB,330
-9215,Tablet 11 polegadas,437
-9216,Mochila Executiva Antifurto,352
-9217,Filtro de Água de Torneira,536
-9218,Caixa de Som Bluetooth Xtreme,323
-9219,Impressora a Laser,330
-9220,Mouse Vertical Ergonômico,118
-9221,Tablet 11 polegadas,457
-9222,Máquina de Café em Cápsulas,216
-9223,Monitor UltraWide 34,147
-9224,Aspirador de Pó Robô,355
-9225,Caixa de Som Bluetooth Xtreme,152
-9226,Impressora a Laser,303
-9227,Kit de Chaves de Precisão,441
-9228,Mochila Executiva Antifurto,562
-9229,Mesa Digitalizadora,393
-9230,Máquina de Café em Cápsulas,103
-9231,Notebook Pro S,553
-9232,Livro: Estruturas de Dados,482
-9233,Microfone Condensador USB,507
-9234,Lâmpada Inteligente Wi-Fi,295
-9235,Cadeira Gamer Confort,476
-9236,Tablet 11 polegadas,428
-9237,Projetor Portátil LED,155
-9238,Máquina de Café em Cápsulas,414
-9239,Roteador Mesh 3-pack,521
-9240,Cadeira Gamer Confort,235
-9241,SSD Externo 2TB,259
-9242,Roteador Mesh 3-pack,421
-9243,Smartwatch Fit Pro,577
-9244,Cadeira de Escritório Tela Mesh,566
-9245,Cadeira de Escritório Tela Mesh,134
-9246,Kit de Chaves de Precisão,568
-9247,Projetor Portátil LED,492
-9248,Câmera de Vigilância IP,539
-9249,Webcam Full HD,542
-9250,Cadeira de Escritório Tela Mesh,249
-9251,Filtro de Água de Torneira,286
-9252,Batedeira Planetária,469
-9253,Sapato Social de Couro,122
-9254,Microfone Condensador USB,456
-9255,Webcam Full HD,104
-9256,Roteador Mesh 3-pack,538
-9257,Filtro de Água de Torneira,161
-9258,Teclado Luminoso,595
-9259,SSD Externo 2TB,566
-9260,Impressora a Laser,461
-9261,Smartphone Z10,584
-9262,Câmera de Vigilância IP,582
-9263,Smartphone Z10,274
-9264,Mesa Digitalizadora,159
-9265,Batedeira Planetária,433
-9266,Caixa de Som Bluetooth Xtreme,529
-9267,Sapato Social de Couro,254
-9268,Batedeira Planetária,125
-9269,Projetor Portátil LED,424
-9270,Panela de Arroz Elétrica,321
-9271,Câmera de Vigilância IP,367
-9272,Lâmpada Inteligente Wi-Fi,524
-9273,Kit de Chaves de Precisão,303
-9274,Notebook Pro S,120
-9275,Climatizador de Ar,351
-9276,Máquina de Café em Cápsulas,321
-9277,Smartwatch Fit Pro,208
-9278,Panela de Arroz Elétrica,510
-9279,SSD Externo 2TB,366
-9280,Mesa Digitalizadora,539
-9281,Aspirador de Pó Robô,320
-9282,Filtro de Água de Torneira,298
-9283,Webcam Full HD,489
-9284,Mouse Vertical Ergonômico,452
-9285,Mouse Vertical Ergonômico,523
-9286,Panela de Arroz Elétrica,345
-9287,Sapato Social de Couro,326
-9288,Panela de Arroz Elétrica,371
-9289,Teclado Luminoso,484
-9290,Monitor UltraWide 34,277
-9291,Filtro de Água de Torneira,116
-9292,Batedeira Planetária,261
-9293,SSD Externo 2TB,396
-9294,Sapato Social de Couro,552
-9295,Lâmpada Inteligente Wi-Fi,591
-9296,Monitor UltraWide 34,106
-9297,Roteador Mesh 3-pack,515
-9298,Panela de Arroz Elétrica,118
-9299,Monitor UltraWide 34,469
-9300,Notebook Pro S,242
-9301,Webcam Full HD,291
-9302,Climatizador de Ar,180
-9303,Teclado Luminoso,330
-9304,Cadeira de Escritório Tela Mesh,457
-9305,Mochila Executiva Antifurto,475
-9306,Sapato Social de Couro,311
-9307,Climatizador de Ar,363
-9308,Caixa de Som Bluetooth Xtreme,382
-9309,Notebook Pro S,281
-9310,Sapato Social de Couro,528
-9311,Webcam Full HD,185
-9312,Aspirador de Pó Robô,207
-9313,Máquina de Café em Cápsulas,589
-9314,Roteador Mesh 3-pack,266
-9315,Cadeira de Escritório Tela Mesh,446
-9316,Microfone Condensador USB,379
-9317,Impressora a Laser,414
-9318,Filtro de Água de Torneira,484
-9319,Tablet 11 polegadas,176
-9320,Câmera de Vigilância IP,499
-9321,Smartphone Z10,328
-9322,Sapato Social de Couro,289
-9323,Filtro de Água de Torneira,470
-9324,Teclado Luminoso,153
-9325,Filtro de Água de Torneira,593
-9326,Câmera de Vigilância IP,525
-9327,Climatizador de Ar,270
-9328,Smartwatch Fit Pro,365
-9329,Mouse Vertical Ergonômico,528
-9330,Notebook Pro S,493
-9331,Cadeira de Escritório Tela Mesh,441
-9332,Notebook Pro S,525
-9333,Sapato Social de Couro,239
-9334,Aspirador de Pó Robô,475
-9335,Panela de Arroz Elétrica,197
-9336,Teclado Luminoso,570
-9337,Smartwatch Fit Pro,437
-9338,Fone com Cancelamento de Ruído,239
-9339,Roteador Mesh 3-pack,242
-9340,Mochila Executiva Antifurto,183
-9341,Cadeira Gamer Confort,368
-9342,Fone com Cancelamento de Ruído,149
-9343,Caixa de Som Bluetooth Xtreme,176
-9344,Mouse Vertical Ergonômico,263
-9345,Smartwatch Fit Pro,493
-9346,SSD Externo 2TB,294
-9347,Batedeira Planetária,414
-9348,Impressora a Laser,336
-9349,Máquina de Café em Cápsulas,525
-9350,Câmera de Vigilância IP,218
-9351,Tablet 11 polegadas,287
-9352,Microfone Condensador USB,560
-9353,Livro: Estruturas de Dados,312
-9354,Livro: Estruturas de Dados,598
-9355,Smartphone Z10,371
-9356,SSD Externo 2TB,231
-9357,Câmera de Vigilância IP,351
-9358,Máquina de Café em Cápsulas,397
-9359,Lâmpada Inteligente Wi-Fi,315
-9360,Impressora a Laser,153
-9361,Filtro de Água de Torneira,168
-9362,Notebook Pro S,317
-9363,Câmera de Vigilância IP,216
-9364,SSD Externo 2TB,272
-9365,Climatizador de Ar,494
-9366,Filtro de Água de Torneira,414
-9367,Cadeira Gamer Confort,416
-9368,Panela de Arroz Elétrica,112
-9369,Smartwatch Fit Pro,317
-9370,Microfone Condensador USB,272
-9371,Câmera de Vigilância IP,153
-9372,Monitor UltraWide 34,412
-9373,Projetor Portátil LED,201
-9374,SSD Externo 2TB,530
-9375,Smartphone Z10,582
-9376,Sapato Social de Couro,327
-9377,Climatizador de Ar,501
-9378,Câmera de Vigilância IP,555
-9379,Filtro de Água de Torneira,135
-9380,Projetor Portátil LED,405
-9381,Microfone Condensador USB,344
-9382,Mouse Vertical Ergonômico,132
-9383,Livro: Estruturas de Dados,529
-9384,Batedeira Planetária,594
-9385,SSD Externo 2TB,394
-9386,Webcam Full HD,546
-9387,Monitor UltraWide 34,539
-9388,Panela de Arroz Elétrica,524
-9389,Microfone Condensador USB,595
-9390,Aspirador de Pó Robô,206
-9391,Smartphone Z10,115
-9392,Microfone Condensador USB,298
-9393,Lâmpada Inteligente Wi-Fi,202
-9394,SSD Externo 2TB,390
-9395,Aspirador de Pó Robô,430
-9396,Roteador Mesh 3-pack,124
-9397,Mochila Executiva Antifurto,246
-9398,Câmera de Vigilância IP,317
-9399,Monitor UltraWide 34,452
-9400,Kit de Chaves de Precisão,560
-9401,Fone com Cancelamento de Ruído,194
-9402,Lâmpada Inteligente Wi-Fi,232
-9403,Microfone Condensador USB,492
-9404,Aspirador de Pó Robô,142
-9405,Roteador Mesh 3-pack,168
-9406,Sapato Social de Couro,212
-9407,Mochila Executiva Antifurto,420
-9408,Mochila Executiva Antifurto,225
-9409,Batedeira Planetária,170
-9410,Fone com Cancelamento de Ruído,385
-9411,Impressora a Laser,195
-9412,Roteador Mesh 3-pack,358
-9413,Notebook Pro S,314
-9414,Fone com Cancelamento de Ruído,312
-9415,Cadeira de Escritório Tela Mesh,286
-9416,Aspirador de Pó Robô,450
-9417,Cadeira de Escritório Tela Mesh,525
-9418,Aspirador de Pó Robô,324
-9419,Máquina de Café em Cápsulas,200
-9420,Smartphone Z10,473
-9421,Mouse Vertical Ergonômico,317
-9422,Teclado Luminoso,126
-9423,Máquina de Café em Cápsulas,286
-9424,Cadeira Gamer Confort,246
-9425,Máquina de Café em Cápsulas,236
-9426,Fone com Cancelamento de Ruído,415
-9427,Teclado Luminoso,366
-9428,Mochila Executiva Antifurto,155
-9429,Aspirador de Pó Robô,413
-9430,Mochila Executiva Antifurto,582
-9431,Tablet 11 polegadas,158
-9432,SSD Externo 2TB,170
-9433,Kit de Chaves de Precisão,544
-9434,Batedeira Planetária,368
-9435,Teclado Luminoso,332
-9436,Mochila Executiva Antifurto,122
-9437,Batedeira Planetária,285
-9438,Mochila Executiva Antifurto,431
-9439,Batedeira Planetária,165
-9440,Webcam Full HD,555
-9441,Kit de Chaves de Precisão,491
-9442,Caixa de Som Bluetooth Xtreme,352
-9443,Webcam Full HD,284
-9444,Fone com Cancelamento de Ruído,504
-9445,Teclado Luminoso,151
-9446,Caixa de Som Bluetooth Xtreme,540
-9447,Impressora a Laser,439
-9448,Cadeira Gamer Confort,445
-9449,Cadeira Gamer Confort,472
-9450,Lâmpada Inteligente Wi-Fi,599
-9451,Microfone Condensador USB,523
-9452,Máquina de Café em Cápsulas,482
-9453,Mouse Vertical Ergonômico,123
-9454,Smartphone Z10,590
-9455,Cadeira Gamer Confort,159
-9456,Tablet 11 polegadas,451
-9457,Caixa de Som Bluetooth Xtreme,128
-9458,Panela de Arroz Elétrica,274
-9459,Sapato Social de Couro,577
-9460,Smartwatch Fit Pro,445
-9461,Monitor UltraWide 34,568
-9462,Mouse Vertical Ergonômico,309
-9463,Filtro de Água de Torneira,460
-9464,Aspirador de Pó Robô,139
-9465,Mouse Vertical Ergonômico,350
-9466,Webcam Full HD,431
-9467,Batedeira Planetária,379
-9468,Sapato Social de Couro,217
-9469,Kit de Chaves de Precisão,455
-9470,Tablet 11 polegadas,148
-9471,Mochila Executiva Antifurto,136
-9472,Microfone Condensador USB,350
-9473,Batedeira Planetária,344
-9474,Máquina de Café em Cápsulas,424
-9475,Livro: Estruturas de Dados,364
-9476,SSD Externo 2TB,529
-9477,SSD Externo 2TB,465
-9478,Impressora a Laser,190
-9479,Sapato Social de Couro,595
-9480,Filtro de Água de Torneira,254
-9481,Câmera de Vigilância IP,178
-9482,Mouse Vertical Ergonômico,477
-9483,Lâmpada Inteligente Wi-Fi,598
-9484,Caixa de Som Bluetooth Xtreme,326
-9485,Mouse Vertical Ergonômico,109
-9486,Panela de Arroz Elétrica,585
-9487,Notebook Pro S,287
-9488,Teclado Luminoso,584
-9489,SSD Externo 2TB,568
-9490,Roteador Mesh 3-pack,183
-9491,Impressora a Laser,551
-9492,Fone com Cancelamento de Ruído,317
-9493,Panela de Arroz Elétrica,592
-9494,Máquina de Café em Cápsulas,585
-9495,Mochila Executiva Antifurto,379
-9496,Mouse Vertical Ergonômico,565
-9497,Batedeira Planetária,546
-9498,Monitor UltraWide 34,208
-9499,Panela de Arroz Elétrica,380
-9500,Webcam Full HD,500
-9501,Batedeira Planetária,191
-9502,Máquina de Café em Cápsulas,157
-9503,Cadeira Gamer Confort,167
-9504,Sapato Social de Couro,280
-9505,Batedeira Planetária,463
-9506,Teclado Luminoso,444
-9507,SSD Externo 2TB,318
-9508,Roteador Mesh 3-pack,487
-9509,Caixa de Som Bluetooth Xtreme,127
-9510,Smartwatch Fit Pro,193
-9511,Cadeira Gamer Confort,213
-9512,Monitor UltraWide 34,491
-9513,Máquina de Café em Cápsulas,108
-9514,Cadeira Gamer Confort,542
-9515,Smartphone Z10,167
-9516,Impressora a Laser,189
-9517,Projetor Portátil LED,184
-9518,Climatizador de Ar,109
-9519,Câmera de Vigilância IP,170
-9520,Monitor UltraWide 34,154
-9521,Monitor UltraWide 34,259
-9522,Câmera de Vigilância IP,529
-9523,Panela de Arroz Elétrica,106
-9524,Aspirador de Pó Robô,153
-9525,Webcam Full HD,221
-9526,Roteador Mesh 3-pack,200
-9527,Livro: Estruturas de Dados,231
-9528,Projetor Portátil LED,343
-9529,Cadeira Gamer Confort,597
-9530,Sapato Social de Couro,417
-9531,Câmera de Vigilância IP,432
-9532,Cadeira Gamer Confort,516
-9533,Livro: Estruturas de Dados,582
-9534,Smartphone Z10,143
-9535,Cadeira de Escritório Tela Mesh,541
-9536,Aspirador de Pó Robô,321
-9537,Cadeira de Escritório Tela Mesh,383
-9538,Mesa Digitalizadora,151
-9539,Câmera de Vigilância IP,477
-9540,Tablet 11 polegadas,105
-9541,Mesa Digitalizadora,208
-9542,Climatizador de Ar,505
-9543,Mesa Digitalizadora,483
-9544,Teclado Luminoso,394
-9545,Teclado Luminoso,394
-9546,Webcam Full HD,306
-9547,Tablet 11 polegadas,506
-9548,Tablet 11 polegadas,477
-9549,Roteador Mesh 3-pack,494
-9550,Batedeira Planetária,368
-9551,Caixa de Som Bluetooth Xtreme,490
-9552,Fone com Cancelamento de Ruído,408
-9553,Smartphone Z10,468
-9554,Smartwatch Fit Pro,401
-9555,Microfone Condensador USB,322
-9556,Webcam Full HD,381
-9557,Filtro de Água de Torneira,226
-9558,Lâmpada Inteligente Wi-Fi,347
-9559,Cadeira de Escritório Tela Mesh,535
-9560,Panela de Arroz Elétrica,596
-9561,Microfone Condensador USB,230
-9562,Smartwatch Fit Pro,244
-9563,Mochila Executiva Antifurto,536
-9564,Smartwatch Fit Pro,165
-9565,Mouse Vertical Ergonômico,469
-9566,Webcam Full HD,480
-9567,Aspirador de Pó Robô,363
-9568,Kit de Chaves de Precisão,327
-9569,Sapato Social de Couro,312
-9570,Caixa de Som Bluetooth Xtreme,516
-9571,Livro: Estruturas de Dados,207
-9572,Notebook Pro S,283
-9573,Lâmpada Inteligente Wi-Fi,500
-9574,Impressora a Laser,595
-9575,Projetor Portátil LED,259
-9576,Impressora a Laser,244
-9577,Cadeira de Escritório Tela Mesh,428
-9578,Lâmpada Inteligente Wi-Fi,262
-9579,Kit de Chaves de Precisão,213
-9580,Impressora a Laser,265
-9581,Batedeira Planetária,242
-9582,Monitor UltraWide 34,515
-9583,Teclado Luminoso,352
-9584,Impressora a Laser,410
-9585,Mouse Vertical Ergonômico,325
-9586,Climatizador de Ar,524
-9587,Microfone Condensador USB,517
-9588,Impressora a Laser,347
-9589,Máquina de Café em Cápsulas,129
-9590,Máquina de Café em Cápsulas,388
-9591,Climatizador de Ar,109
-9592,Panela de Arroz Elétrica,591
-9593,Fone com Cancelamento de Ruído,214
-9594,Livro: Estruturas de Dados,460
-9595,Projetor Portátil LED,264
-9596,Lâmpada Inteligente Wi-Fi,400
-9597,Livro: Estruturas de Dados,349
-9598,Webcam Full HD,517
-9599,Webcam Full HD,283
-9600,Sapato Social de Couro,122
-9601,SSD Externo 2TB,185
-9602,SSD Externo 2TB,163
-9603,Batedeira Planetária,350
-9604,SSD Externo 2TB,212
-9605,Cadeira de Escritório Tela Mesh,579
-9606,SSD Externo 2TB,480
-9607,Notebook Pro S,384
-9608,Lâmpada Inteligente Wi-Fi,361
-9609,Filtro de Água de Torneira,571
-9610,Lâmpada Inteligente Wi-Fi,312
-9611,Climatizador de Ar,270
-9612,Monitor UltraWide 34,277
-9613,Máquina de Café em Cápsulas,164
-9614,Fone com Cancelamento de Ruído,598
-9615,Webcam Full HD,526
-9616,Mouse Vertical Ergonômico,580
-9617,Roteador Mesh 3-pack,272
-9618,Lâmpada Inteligente Wi-Fi,284
-9619,Panela de Arroz Elétrica,240
-9620,Teclado Luminoso,509
-9621,Projetor Portátil LED,589
-9622,Climatizador de Ar,397
-9623,Livro: Estruturas de Dados,589
-9624,Panela de Arroz Elétrica,365
-9625,Roteador Mesh 3-pack,421
-9626,Roteador Mesh 3-pack,196
-9627,Impressora a Laser,202
-9628,Sapato Social de Couro,262
-9629,Sapato Social de Couro,380
-9630,SSD Externo 2TB,486
-9631,Mouse Vertical Ergonômico,309
-9632,Monitor UltraWide 34,113
-9633,Cadeira Gamer Confort,480
-9634,Notebook Pro S,413
-9635,Sapato Social de Couro,325
-9636,Tablet 11 polegadas,388
-9637,Webcam Full HD,569
-9638,Teclado Luminoso,580
-9639,Aspirador de Pó Robô,272
-9640,Câmera de Vigilância IP,245
-9641,Cadeira de Escritório Tela Mesh,135
-9642,Impressora a Laser,382
-9643,Teclado Luminoso,289
-9644,Notebook Pro S,439
-9645,Notebook Pro S,380
-9646,Smartwatch Fit Pro,379
-9647,Cadeira de Escritório Tela Mesh,508
-9648,Smartwatch Fit Pro,368
-9649,Mesa Digitalizadora,567
-9650,Mouse Vertical Ergonômico,265
-9651,Mochila Executiva Antifurto,518
-9652,Microfone Condensador USB,537
-9653,Máquina de Café em Cápsulas,372
-9654,Projetor Portátil LED,578
-9655,Fone com Cancelamento de Ruído,481
-9656,Batedeira Planetária,218
-9657,Notebook Pro S,255
-9658,Smartwatch Fit Pro,240
-9659,Tablet 11 polegadas,209
-9660,SSD Externo 2TB,508
-9661,Projetor Portátil LED,380
-9662,Projetor Portátil LED,540
-9663,Mouse Vertical Ergonômico,382
-9664,Fone com Cancelamento de Ruído,189
-9665,Monitor UltraWide 34,200
-9666,Microfone Condensador USB,158
-9667,Mochila Executiva Antifurto,187
-9668,Mochila Executiva Antifurto,322
-9669,SSD Externo 2TB,531
-9670,Mochila Executiva Antifurto,268
-9671,Roteador Mesh 3-pack,305
-9672,Cadeira de Escritório Tela Mesh,334
-9673,Cadeira de Escritório Tela Mesh,236
-9674,Máquina de Café em Cápsulas,205
-9675,Projetor Portátil LED,443
-9676,Webcam Full HD,369
-9677,Aspirador de Pó Robô,431
-9678,Caixa de Som Bluetooth Xtreme,139
-9679,Impressora a Laser,340
-9680,Filtro de Água de Torneira,535
-9681,Lâmpada Inteligente Wi-Fi,290
-9682,Aspirador de Pó Robô,237
-9683,Panela de Arroz Elétrica,255
-9684,Kit de Chaves de Precisão,506
-9685,Tablet 11 polegadas,454
-9686,SSD Externo 2TB,321
-9687,Livro: Estruturas de Dados,548
-9688,Notebook Pro S,326
-9689,Lâmpada Inteligente Wi-Fi,224
-9690,Fone com Cancelamento de Ruído,149
-9691,Smartphone Z10,373
-9692,Mesa Digitalizadora,448
-9693,Tablet 11 polegadas,544
-9694,SSD Externo 2TB,234
-9695,Filtro de Água de Torneira,527
-9696,Filtro de Água de Torneira,434
-9697,Lâmpada Inteligente Wi-Fi,157
-9698,Projetor Portátil LED,158
-9699,Panela de Arroz Elétrica,536
-9700,Teclado Luminoso,177
-9701,Notebook Pro S,320
-9702,Fone com Cancelamento de Ruído,501
-9703,Livro: Estruturas de Dados,212
-9704,Mesa Digitalizadora,255
-9705,Aspirador de Pó Robô,168
-9706,Microfone Condensador USB,313
-9707,Fone com Cancelamento de Ruído,517
-9708,Impressora a Laser,218
-9709,Mouse Vertical Ergonômico,493
-9710,Máquina de Café em Cápsulas,465
-9711,Cadeira de Escritório Tela Mesh,141
-9712,Máquina de Café em Cápsulas,244
-9713,Roteador Mesh 3-pack,581
-9714,Microfone Condensador USB,488
-9715,Monitor UltraWide 34,395
-9716,Fone com Cancelamento de Ruído,545
-9717,Projetor Portátil LED,454
-9718,Câmera de Vigilância IP,177
-9719,Caixa de Som Bluetooth Xtreme,532
-9720,Cadeira de Escritório Tela Mesh,230
-9721,Cadeira Gamer Confort,372
-9722,Notebook Pro S,249
-9723,Panela de Arroz Elétrica,232
-9724,Tablet 11 polegadas,111
-9725,Impressora a Laser,264
-9726,Batedeira Planetária,248
-9727,Notebook Pro S,300
-9728,Aspirador de Pó Robô,496
-9729,Filtro de Água de Torneira,243
-9730,Aspirador de Pó Robô,399
-9731,Smartphone Z10,451
-9732,Filtro de Água de Torneira,244
-9733,Microfone Condensador USB,231
-9734,Fone com Cancelamento de Ruído,370
-9735,Livro: Estruturas de Dados,518
-9736,Projetor Portátil LED,587
-9737,Monitor UltraWide 34,320
-9738,Mesa Digitalizadora,187
-9739,Aspirador de Pó Robô,251
-9740,Tablet 11 polegadas,433
-9741,Fone com Cancelamento de Ruído,296
-9742,Tablet 11 polegadas,192
-9743,Livro: Estruturas de Dados,227
-9744,Smartwatch Fit Pro,530
-9745,Livro: Estruturas de Dados,307
-9746,Mesa Digitalizadora,135
-9747,Cadeira Gamer Confort,466
-9748,Monitor UltraWide 34,428
-9749,Impressora a Laser,461
-9750,Webcam Full HD,157
-9751,Impressora a Laser,528
-9752,Webcam Full HD,201
-9753,Teclado Luminoso,454
-9754,Smartphone Z10,487
-9755,Smartphone Z10,311
-9756,Monitor UltraWide 34,567
-9757,Livro: Estruturas de Dados,261
-9758,Climatizador de Ar,457
-9759,Caixa de Som Bluetooth Xtreme,273
-9760,SSD Externo 2TB,323
-9761,Tablet 11 polegadas,485
-9762,Máquina de Café em Cápsulas,543
-9763,Projetor Portátil LED,155
-9764,Batedeira Planetária,195
-9765,Cadeira de Escritório Tela Mesh,199
-9766,Fone com Cancelamento de Ruído,120
-9767,Batedeira Planetária,382
-9768,SSD Externo 2TB,137
-9769,Mouse Vertical Ergonômico,151
-9770,Notebook Pro S,586
-9771,Notebook Pro S,483
-9772,Monitor UltraWide 34,340
-9773,Kit de Chaves de Precisão,160
-9774,Teclado Luminoso,354
-9775,Batedeira Planetária,304
-9776,Câmera de Vigilância IP,496
-9777,Projetor Portátil LED,457
-9778,Caixa de Som Bluetooth Xtreme,498
-9779,Livro: Estruturas de Dados,589
-9780,Webcam Full HD,535
-9781,Tablet 11 polegadas,446
-9782,Filtro de Água de Torneira,502
-9783,Cadeira de Escritório Tela Mesh,498
-9784,Aspirador de Pó Robô,151
-9785,Mochila Executiva Antifurto,253
-9786,Sapato Social de Couro,245
-9787,Smartphone Z10,490
-9788,Impressora a Laser,419
-9789,Aspirador de Pó Robô,356
-9790,Webcam Full HD,579
-9791,Notebook Pro S,196
-9792,Tablet 11 polegadas,434
-9793,Caixa de Som Bluetooth Xtreme,405
-9794,Microfone Condensador USB,108
-9795,Lâmpada Inteligente Wi-Fi,264
-9796,Sapato Social de Couro,113
-9797,Cadeira de Escritório Tela Mesh,150
-9798,Mouse Vertical Ergonômico,309
-9799,Climatizador de Ar,269
-9800,Impressora a Laser,300
-9801,Aspirador de Pó Robô,563
-9802,Webcam Full HD,567
-9803,Mesa Digitalizadora,414
-9804,Tablet 11 polegadas,559
-9805,Mouse Vertical Ergonômico,174
-9806,Livro: Estruturas de Dados,499
-9807,Kit de Chaves de Precisão,202
-9808,Aspirador de Pó Robô,586
-9809,Mouse Vertical Ergonômico,237
-9810,Máquina de Café em Cápsulas,264
-9811,Projetor Portátil LED,387
-9812,Filtro de Água de Torneira,210
-9813,Aspirador de Pó Robô,122
-9814,Kit de Chaves de Precisão,506
-9815,Smartphone Z10,589
-9816,Livro: Estruturas de Dados,417
-9817,Cadeira Gamer Confort,535
-9818,Webcam Full HD,421
-9819,Microfone Condensador USB,431
-9820,Mesa Digitalizadora,515
-9821,Kit de Chaves de Precisão,314
-9822,Smartphone Z10,297
-9823,Mesa Digitalizadora,350
-9824,Cadeira Gamer Confort,278
-9825,Smartwatch Fit Pro,309
-9826,Mouse Vertical Ergonômico,476
-9827,Roteador Mesh 3-pack,166
-9828,Mochila Executiva Antifurto,342
-9829,Notebook Pro S,189
-9830,Panela de Arroz Elétrica,345
-9831,Webcam Full HD,449
-9832,Filtro de Água de Torneira,282
-9833,Mesa Digitalizadora,455
-9834,Impressora a Laser,470
-9835,Smartphone Z10,192
-9836,Mochila Executiva Antifurto,216
-9837,Microfone Condensador USB,385
-9838,Mesa Digitalizadora,584
-9839,Smartphone Z10,255
-9840,Mesa Digitalizadora,383
-9841,Fone com Cancelamento de Ruído,136
-9842,Kit de Chaves de Precisão,549
-9843,Câmera de Vigilância IP,118
-9844,Caixa de Som Bluetooth Xtreme,378
-9845,Lâmpada Inteligente Wi-Fi,229
-9846,Smartwatch Fit Pro,523
-9847,Roteador Mesh 3-pack,305
-9848,Mochila Executiva Antifurto,485
-9849,Cadeira de Escritório Tela Mesh,404
-9850,Batedeira Planetária,600
-9851,Monitor UltraWide 34,370
-9852,Tablet 11 polegadas,590
-9853,Mouse Vertical Ergonômico,362
-9854,Cadeira Gamer Confort,292
-9855,Projetor Portátil LED,447
-9856,Câmera de Vigilância IP,191
-9857,Livro: Estruturas de Dados,329
-9858,Projetor Portátil LED,471
-9859,Webcam Full HD,131
-9860,Livro: Estruturas de Dados,259
-9861,Smartphone Z10,544
-9862,Câmera de Vigilância IP,396
-9863,Mouse Vertical Ergonômico,329
-9864,Batedeira Planetária,423
-9865,Kit de Chaves de Precisão,153
-9866,SSD Externo 2TB,204
-9867,Smartwatch Fit Pro,253
-9868,Lâmpada Inteligente Wi-Fi,499
-9869,Sapato Social de Couro,444
-9870,Cadeira Gamer Confort,195
-9871,Notebook Pro S,305
-9872,Kit de Chaves de Precisão,344
-9873,Impressora a Laser,339
-9874,Câmera de Vigilância IP,228
-9875,Sapato Social de Couro,437
-9876,Kit de Chaves de Precisão,586
-9877,Aspirador de Pó Robô,435
-9878,Notebook Pro S,436
-9879,Mouse Vertical Ergonômico,513
-9880,Monitor UltraWide 34,497
-9881,Mouse Vertical Ergonômico,250
-9882,Monitor UltraWide 34,313
-9883,Cadeira de Escritório Tela Mesh,557
-9884,Máquina de Café em Cápsulas,150
-9885,Caixa de Som Bluetooth Xtreme,570
-9886,Lâmpada Inteligente Wi-Fi,374
-9887,Microfone Condensador USB,268
-9888,Mouse Vertical Ergonômico,295
-9889,Tablet 11 polegadas,115
-9890,Lâmpada Inteligente Wi-Fi,274
-9891,Tablet 11 polegadas,597
-9892,Filtro de Água de Torneira,272
-9893,Cadeira Gamer Confort,431
-9894,SSD Externo 2TB,361
-9895,Fone com Cancelamento de Ruído,164
-9896,Cadeira Gamer Confort,582
-9897,Smartwatch Fit Pro,553
-9898,Teclado Luminoso,436
-9899,SSD Externo 2TB,589
-9900,Filtro de Água de Torneira,243
-9901,Mouse Vertical Ergonômico,333
-9902,Filtro de Água de Torneira,380
-9903,Mesa Digitalizadora,329
-9904,Smartphone Z10,385
-9905,Smartphone Z10,301
-9906,Teclado Luminoso,576
-9907,Kit de Chaves de Precisão,305
-9908,Mesa Digitalizadora,282
-9909,Mochila Executiva Antifurto,518
-9910,Batedeira Planetária,248
-9911,Roteador Mesh 3-pack,135
-9912,Kit de Chaves de Precisão,196
-9913,Webcam Full HD,255
-9914,Webcam Full HD,423
-9915,Batedeira Planetária,226
-9916,Webcam Full HD,511
-9917,Mouse Vertical Ergonômico,434
-9918,Lâmpada Inteligente Wi-Fi,392
-9919,Cadeira Gamer Confort,374
-9920,Fone com Cancelamento de Ruído,590
-9921,SSD Externo 2TB,572
-9922,Monitor UltraWide 34,263
-9923,Sapato Social de Couro,176
-9924,Fone com Cancelamento de Ruído,543
-9925,Tablet 11 polegadas,408
-9926,Microfone Condensador USB,462
-9927,Projetor Portátil LED,187
-9928,Monitor UltraWide 34,129
-9929,Mouse Vertical Ergonômico,182
-9930,Panela de Arroz Elétrica,464
-9931,Livro: Estruturas de Dados,138
-9932,Mesa Digitalizadora,352
-9933,Livro: Estruturas de Dados,466
-9934,Cadeira Gamer Confort,422
-9935,Smartwatch Fit Pro,231
-9936,Lâmpada Inteligente Wi-Fi,563
-9937,Cadeira Gamer Confort,318
-9938,Máquina de Café em Cápsulas,148
-9939,SSD Externo 2TB,378
-9940,Projetor Portátil LED,239
-9941,Projetor Portátil LED,322
-9942,Livro: Estruturas de Dados,554
-9943,Batedeira Planetária,143
-9944,Cadeira de Escritório Tela Mesh,377
-9945,Filtro de Água de Torneira,114
-9946,Mouse Vertical Ergonômico,246
-9947,Microfone Condensador USB,277
-9948,Impressora a Laser,141
-9949,Roteador Mesh 3-pack,542
-9950,Climatizador de Ar,168
-9951,Aspirador de Pó Robô,576
-9952,Mochila Executiva Antifurto,542
-9953,Cadeira de Escritório Tela Mesh,196
-9954,Máquina de Café em Cápsulas,137
-9955,Máquina de Café em Cápsulas,380
-9956,Mouse Vertical Ergonômico,294
-9957,Filtro de Água de Torneira,292
-9958,Smartwatch Fit Pro,407
-9959,Cadeira de Escritório Tela Mesh,567
-9960,Filtro de Água de Torneira,233
-9961,Mouse Vertical Ergonômico,350
-9962,Fone com Cancelamento de Ruído,107
-9963,Smartphone Z10,566
-9964,Lâmpada Inteligente Wi-Fi,300
-9965,Projetor Portátil LED,536
-9966,Teclado Luminoso,547
-9967,Cadeira de Escritório Tela Mesh,460
-9968,Lâmpada Inteligente Wi-Fi,490
-9969,Cadeira Gamer Confort,393
-9970,Impressora a Laser,271
-9971,Teclado Luminoso,206
-9972,Roteador Mesh 3-pack,246
-9973,Lâmpada Inteligente Wi-Fi,425
-9974,Câmera de Vigilância IP,567
-9975,Fone com Cancelamento de Ruído,340
-9976,Cadeira Gamer Confort,318
-9977,Smartwatch Fit Pro,364
-9978,Panela de Arroz Elétrica,128
-9979,Livro: Estruturas de Dados,259
-9980,Cadeira Gamer Confort,550
-9981,Mouse Vertical Ergonômico,568
-9982,Aspirador de Pó Robô,241
-9983,Kit de Chaves de Precisão,271
-9984,Microfone Condensador USB,367
-9985,Smartphone Z10,106
-9986,Microfone Condensador USB,507
-9987,Cadeira de Escritório Tela Mesh,141
-9988,Tablet 11 polegadas,545
-9989,Máquina de Café em Cápsulas,163
-9990,Mouse Vertical Ergonômico,493
-9991,SSD Externo 2TB,423
-9992,Tablet 11 polegadas,117
-9993,Mesa Digitalizadora,200
-9994,Smartphone Z10,172
-9995,Smartwatch Fit Pro,425
-9996,Kit de Chaves de Precisão,169
-9997,Batedeira Planetária,349
-9998,Mochila Executiva Antifurto,454
-9999,Teclado Luminoso,164
-10000,Impressora a Laser,236
-10001,Mesa Digitalizadora,548
-10002,Smartphone Z10,271
-10003,SSD Externo 2TB,550
-10004,Panela de Arroz Elétrica,384
-10005,Monitor UltraWide 34,130
-10006,Cadeira de Escritório Tela Mesh,599
-10007,Caixa de Som Bluetooth Xtreme,182
-10008,Máquina de Café em Cápsulas,595
-10009,Filtro de Água de Torneira,235
-10010,SSD Externo 2TB,329
-10011,Máquina de Café em Cápsulas,262
-10012,Filtro de Água de Torneira,574
-10013,Smartwatch Fit Pro,278
-10014,Batedeira Planetária,457
-10015,Impressora a Laser,130
-10016,Tablet 11 polegadas,250
-10017,Impressora a Laser,593
-10018,Panela de Arroz Elétrica,399
-10019,Filtro de Água de Torneira,510
-10020,Webcam Full HD,316
-10021,Cadeira Gamer Confort,188
-10022,Impressora a Laser,147
-10023,Lâmpada Inteligente Wi-Fi,374
-10024,Mesa Digitalizadora,430
-10025,Fone com Cancelamento de Ruído,388
-10026,Cadeira de Escritório Tela Mesh,159
-10027,Cadeira de Escritório Tela Mesh,118
-10028,Monitor UltraWide 34,260
-10029,Teclado Luminoso,467
-10030,Kit de Chaves de Precisão,307
-10031,Smartphone Z10,333
-10032,Kit de Chaves de Precisão,206
-10033,Projetor Portátil LED,446
-10034,Cadeira de Escritório Tela Mesh,137
-10035,Teclado Luminoso,459
-10036,Caixa de Som Bluetooth Xtreme,329
-10037,Tablet 11 polegadas,443
-10038,Webcam Full HD,235
-10039,Panela de Arroz Elétrica,407
-10040,Cadeira Gamer Confort,425
-10041,Smartwatch Fit Pro,594
-10042,Smartphone Z10,260
-10043,Cadeira Gamer Confort,366
-10044,Fone com Cancelamento de Ruído,552
-10045,Microfone Condensador USB,283
-10046,Batedeira Planetária,309
-10047,Filtro de Água de Torneira,559
-10048,Webcam Full HD,132
-10049,Câmera de Vigilância IP,555
-10050,Panela de Arroz Elétrica,257
-10051,Sapato Social de Couro,292
-10052,Batedeira Planetária,320
-10053,Impressora a Laser,551
-10054,Batedeira Planetária,377
-10055,Microfone Condensador USB,121
-10056,Aspirador de Pó Robô,599
-10057,Lâmpada Inteligente Wi-Fi,291
-10058,Kit de Chaves de Precisão,118
-10059,Lâmpada Inteligente Wi-Fi,524
-10060,Livro: Estruturas de Dados,273
-10061,Aspirador de Pó Robô,478
-10062,Kit de Chaves de Precisão,495
-10063,Climatizador de Ar,297
-10064,Smartwatch Fit Pro,226
-10065,Climatizador de Ar,526
-10066,Tablet 11 polegadas,355
-10067,Smartphone Z10,274
-10068,SSD Externo 2TB,230
-10069,Microfone Condensador USB,247
-10070,Aspirador de Pó Robô,562
-10071,Lâmpada Inteligente Wi-Fi,223
-10072,Cadeira de Escritório Tela Mesh,293
-10073,Caixa de Som Bluetooth Xtreme,262
-10074,Livro: Estruturas de Dados,504
-10075,Smartwatch Fit Pro,272
-10076,Impressora a Laser,349
-10077,Microfone Condensador USB,558
-10078,Máquina de Café em Cápsulas,569
-10079,Smartphone Z10,502
-10080,Mochila Executiva Antifurto,154
-10081,Kit de Chaves de Precisão,362
-10082,Microfone Condensador USB,257
-10083,Webcam Full HD,190
-10084,Mochila Executiva Antifurto,454
-10085,Câmera de Vigilância IP,484
-10086,Climatizador de Ar,192
-10087,Mouse Vertical Ergonômico,563
-10088,Projetor Portátil LED,483
-10089,Máquina de Café em Cápsulas,208
-10090,Cadeira de Escritório Tela Mesh,545
-10091,Livro: Estruturas de Dados,237
-10092,Monitor UltraWide 34,586
-10093,Panela de Arroz Elétrica,225
-10094,Mochila Executiva Antifurto,228
-10095,Microfone Condensador USB,281
-10096,Roteador Mesh 3-pack,316
-10097,Roteador Mesh 3-pack,416
-10098,Aspirador de Pó Robô,369
-10099,Lâmpada Inteligente Wi-Fi,570
-10100,Projetor Portátil LED,483
-10101,Monitor UltraWide 34,212
-10102,Kit de Chaves de Precisão,180
-10103,Cadeira de Escritório Tela Mesh,478
-10104,Cadeira Gamer Confort,376
-10105,Kit de Chaves de Precisão,191
-10106,Mouse Vertical Ergonômico,399
-10107,Cadeira de Escritório Tela Mesh,561
-10108,Filtro de Água de Torneira,113
-10109,Caixa de Som Bluetooth Xtreme,402
-10110,Mouse Vertical Ergonômico,309
-10111,Mesa Digitalizadora,328
-10112,Batedeira Planetária,240
-10113,Câmera de Vigilância IP,331
-10114,Webcam Full HD,351
-10115,Livro: Estruturas de Dados,146
-10116,Smartwatch Fit Pro,373
-10117,Webcam Full HD,495
-10118,SSD Externo 2TB,190
-10119,Kit de Chaves de Precisão,538
-10120,Kit de Chaves de Precisão,153
-10121,Smartwatch Fit Pro,193
-10122,Roteador Mesh 3-pack,284
-10123,Tablet 11 polegadas,132
-10124,Mouse Vertical Ergonômico,509
-10125,Aspirador de Pó Robô,212
-10126,Smartphone Z10,320
-10127,Smartwatch Fit Pro,194
-10128,Livro: Estruturas de Dados,370
-10129,Lâmpada Inteligente Wi-Fi,273
-10130,Mesa Digitalizadora,279
-10131,Mouse Vertical Ergonômico,536
-10132,Kit de Chaves de Precisão,449
-10133,Webcam Full HD,318
-10134,Livro: Estruturas de Dados,144
-10135,Cadeira de Escritório Tela Mesh,157
-10136,Mesa Digitalizadora,230
-10137,Smartwatch Fit Pro,173
-10138,Cadeira Gamer Confort,433
-10139,Microfone Condensador USB,119
-10140,Cadeira Gamer Confort,451
-10141,Impressora a Laser,163
-10142,Mesa Digitalizadora,361
-10143,Webcam Full HD,497
-10144,Tablet 11 polegadas,417
-10145,Mesa Digitalizadora,489
-10146,Filtro de Água de Torneira,168
-10147,Smartwatch Fit Pro,568
-10148,Batedeira Planetária,396
-10149,Mochila Executiva Antifurto,508
-10150,Batedeira Planetária,431
-10151,Notebook Pro S,142
-10152,Smartwatch Fit Pro,397
-10153,Mesa Digitalizadora,330
-10154,Webcam Full HD,206
-10155,Filtro de Água de Torneira,112
-10156,Máquina de Café em Cápsulas,265
-10157,Roteador Mesh 3-pack,303
-10158,Lâmpada Inteligente Wi-Fi,524
-10159,Monitor UltraWide 34,411
-10160,Impressora a Laser,297
-10161,Climatizador de Ar,268
-10162,Sapato Social de Couro,203
-10163,Kit de Chaves de Precisão,359
-10164,Máquina de Café em Cápsulas,326
-10165,Fone com Cancelamento de Ruído,169
-10166,Filtro de Água de Torneira,505
-10167,Roteador Mesh 3-pack,223
-10168,Mochila Executiva Antifurto,275
-10169,Teclado Luminoso,505
-10170,Câmera de Vigilância IP,276
-10171,Cadeira Gamer Confort,463
-10172,Fone com Cancelamento de Ruído,466
-10173,Batedeira Planetária,229
-10174,SSD Externo 2TB,214
-10175,Filtro de Água de Torneira,209
-10176,Notebook Pro S,366
-10177,Mesa Digitalizadora,453
-10178,Fone com Cancelamento de Ruído,494
-10179,Aspirador de Pó Robô,527
-10180,Microfone Condensador USB,230
-10181,Smartwatch Fit Pro,379
-10182,Lâmpada Inteligente Wi-Fi,475
-10183,Livro: Estruturas de Dados,512
-10184,Livro: Estruturas de Dados,298
-10185,Smartwatch Fit Pro,574
-10186,Teclado Luminoso,388
-10187,Máquina de Café em Cápsulas,580
-10188,Tablet 11 polegadas,155
-10189,Câmera de Vigilância IP,120
-10190,Projetor Portátil LED,476
-10191,Cadeira Gamer Confort,524
-10192,Cadeira Gamer Confort,178
-10193,Tablet 11 polegadas,322
-10194,Máquina de Café em Cápsulas,570
-10195,Fone com Cancelamento de Ruído,465
-10196,Batedeira Planetária,511
-10197,Climatizador de Ar,486
-10198,Kit de Chaves de Precisão,359
-10199,Câmera de Vigilância IP,489
-10200,Monitor UltraWide 34,549
+9001,Projetor Portátil LED,582
+9002,Teclado Luminoso,196
+9003,Máquina de Café em Cápsulas,353
+9004,Sapato Social de Couro,410
+9005,Climatizador de Ar,191
+9006,Panela de Arroz Elétrica,250
+9007,Filtro de Água de Torneira,367
+9008,Panela de Arroz Elétrica,393
+9009,Mesa Digitalizadora,125
+9010,Smartwatch Fit Pro,524
+9011,Cadeira de Escritório Tela Mesh,125
+9012,Roteador Mesh 3-pack,460
+9013,Cadeira de Escritório Tela Mesh,460
+9014,Mesa Digitalizadora,524
+9015,Cadeira Gamer Confort,306
+9016,Mochila Executiva Antifurto,554
+9017,Mouse Vertical Ergonômico,346
+9018,Monitor UltraWide 34,324
+9019,Lâmpada Inteligente Wi-Fi,315
+9020,Webcam Full HD,592
+9021,Mesa Digitalizadora,582
+9022,Teclado Luminoso,478
+9023,Impressora a Laser,221
+9024,Projetor Portátil LED,297
+9025,Tablet 11 polegadas,395
+9026,Smartphone Z10,180
+9027,Impressora a Laser,583
+9028,Notebook Pro S,105
+9029,SSD Externo 2TB,334
+9030,Webcam Full HD,341
+9031,Livro: Estruturas de Dados,494
+9032,Tablet 11 polegadas,135
+9033,Smartphone Z10,289
+9034,Teclado Luminoso,459
+9035,Mochila Executiva Antifurto,238
+9036,Projetor Portátil LED,562
+9037,Smartwatch Fit Pro,416
+9038,Cadeira de Escritório Tela Mesh,256
+9039,Batedeira Planetária,117
+9040,Cadeira de Escritório Tela Mesh,193
+9041,Tablet 11 polegadas,477
+9042,Fone com Cancelamento de Ruído,429
+9043,Notebook Pro S,325
+9044,Roteador Mesh 3-pack,529
+9045,Webcam Full HD,122
+9046,Livro: Estruturas de Dados,233
+9047,Roteador Mesh 3-pack,565
+9048,Caixa de Som Bluetooth Xtreme,464
+9049,Impressora a Laser,188
+9050,Teclado Luminoso,263
+9051,Notebook Pro S,189
+9052,Webcam Full HD,475
+9053,Panela de Arroz Elétrica,520
+9054,Livro: Estruturas de Dados,511
+9055,Caixa de Som Bluetooth Xtreme,240
+9056,Notebook Pro S,367
+9057,Mesa Digitalizadora,162
+9058,Microfone Condensador USB,564
+9059,Roteador Mesh 3-pack,168
+9060,Smartphone Z10,174
+9061,Monitor UltraWide 34,246
+9062,Máquina de Café em Cápsulas,214
+9063,Smartwatch Fit Pro,320
+9064,Câmera de Vigilância IP,442
+9065,Cadeira de Escritório Tela Mesh,136
+9066,Roteador Mesh 3-pack,133
+9067,Aspirador de Pó Robô,208
+9068,Impressora a Laser,139
+9069,Mesa Digitalizadora,523
+9070,Livro: Estruturas de Dados,507
+9071,Mouse Vertical Ergonômico,371
+9072,Caixa de Som Bluetooth Xtreme,584
+9073,Sapato Social de Couro,599
+9074,Roteador Mesh 3-pack,537
+9075,Microfone Condensador USB,459
+9076,Kit de Chaves de Precisão,536
+9077,Teclado Luminoso,182
+9078,Batedeira Planetária,152
+9079,Fone com Cancelamento de Ruído,420
+9080,Batedeira Planetária,595
+9081,SSD Externo 2TB,377
+9082,Webcam Full HD,358
+9083,Mochila Executiva Antifurto,346
+9084,Caixa de Som Bluetooth Xtreme,190
+9085,Kit de Chaves de Precisão,391
+9086,Cadeira Gamer Confort,199
+9087,Smartphone Z10,556
+9088,Smartphone Z10,182
+9089,Webcam Full HD,485
+9090,Fone com Cancelamento de Ruído,481
+9091,Máquina de Café em Cápsulas,157
+9092,Smartphone Z10,571
+9093,SSD Externo 2TB,249
+9094,Mouse Vertical Ergonômico,386
+9095,Cadeira de Escritório Tela Mesh,302
+9096,Filtro de Água de Torneira,181
+9097,Câmera de Vigilância IP,271
+9098,Aspirador de Pó Robô,462
+9099,Sapato Social de Couro,235
+9100,Climatizador de Ar,470
+9101,SSD Externo 2TB,559
+9102,Batedeira Planetária,125
+9103,Cadeira Gamer Confort,180
+9104,SSD Externo 2TB,310
+9105,Webcam Full HD,141
+9106,Tablet 11 polegadas,464
+9107,Roteador Mesh 3-pack,539
+9108,Câmera de Vigilância IP,513
+9109,Roteador Mesh 3-pack,123
+9110,Mouse Vertical Ergonômico,505
+9111,Kit de Chaves de Precisão,447
+9112,Lâmpada Inteligente Wi-Fi,511
+9113,Smartphone Z10,273
+9114,Smartwatch Fit Pro,305
+9115,Smartwatch Fit Pro,431
+9116,Microfone Condensador USB,122
+9117,Teclado Luminoso,471
+9118,Máquina de Café em Cápsulas,260
+9119,Batedeira Planetária,261
+9120,Mesa Digitalizadora,426
+9121,Teclado Luminoso,519
+9122,Máquina de Café em Cápsulas,127
+9123,Tablet 11 polegadas,478
+9124,Panela de Arroz Elétrica,236
+9125,Mouse Vertical Ergonômico,502
+9126,Batedeira Planetária,146
+9127,Cadeira Gamer Confort,134
+9128,Smartwatch Fit Pro,313
+9129,Mochila Executiva Antifurto,247
+9130,Smartwatch Fit Pro,294
+9131,Cadeira Gamer Confort,446
+9132,Tablet 11 polegadas,211
+9133,Caixa de Som Bluetooth Xtreme,119
+9134,Impressora a Laser,552
+9135,Panela de Arroz Elétrica,473
+9136,Fone com Cancelamento de Ruído,126
+9137,Mouse Vertical Ergonômico,132
+9138,Microfone Condensador USB,576
+9139,Caixa de Som Bluetooth Xtreme,312
+9140,Mouse Vertical Ergonômico,543
+9141,Mouse Vertical Ergonômico,107
+9142,Cadeira de Escritório Tela Mesh,423
+9143,Mesa Digitalizadora,204
+9144,Batedeira Planetária,243
+9145,Kit de Chaves de Precisão,440
+9146,Tablet 11 polegadas,437
+9147,Projetor Portátil LED,464
+9148,Smartwatch Fit Pro,298
+9149,Lâmpada Inteligente Wi-Fi,457
+9150,Câmera de Vigilância IP,553
+9151,Livro: Estruturas de Dados,160
+9152,Kit de Chaves de Precisão,523
+9153,Tablet 11 polegadas,567
+9154,Monitor UltraWide 34,326
+9155,Panela de Arroz Elétrica,176
+9156,Kit de Chaves de Precisão,338
+9157,Máquina de Café em Cápsulas,399
+9158,Cadeira Gamer Confort,198
+9159,Notebook Pro S,466
+9160,Projetor Portátil LED,336
+9161,Mochila Executiva Antifurto,582
+9162,Cadeira de Escritório Tela Mesh,175
+9163,Cadeira Gamer Confort,296
+9164,Filtro de Água de Torneira,149
+9165,Monitor UltraWide 34,406
+9166,Mesa Digitalizadora,581
+9167,Kit de Chaves de Precisão,432
+9168,Máquina de Café em Cápsulas,390
+9169,Mochila Executiva Antifurto,487
+9170,Teclado Luminoso,211
+9171,Microfone Condensador USB,376
+9172,SSD Externo 2TB,538
+9173,Mochila Executiva Antifurto,556
+9174,Impressora a Laser,319
+9175,Monitor UltraWide 34,364
+9176,Microfone Condensador USB,209
+9177,Roteador Mesh 3-pack,545
+9178,Livro: Estruturas de Dados,540
+9179,Roteador Mesh 3-pack,154
+9180,Tablet 11 polegadas,473
+9181,Roteador Mesh 3-pack,182
+9182,Monitor UltraWide 34,563
+9183,Câmera de Vigilância IP,339
+9184,Projetor Portátil LED,554
+9185,Projetor Portátil LED,410
+9186,Mouse Vertical Ergonômico,339
+9187,Notebook Pro S,561
+9188,Climatizador de Ar,396
+9189,Cadeira Gamer Confort,122
+9190,Cadeira Gamer Confort,470
+9191,Livro: Estruturas de Dados,115
+9192,Panela de Arroz Elétrica,391
+9193,Mesa Digitalizadora,272
+9194,Caixa de Som Bluetooth Xtreme,567
+9195,Cadeira de Escritório Tela Mesh,502
+9196,Fone com Cancelamento de Ruído,521
+9197,Filtro de Água de Torneira,136
+9198,Kit de Chaves de Precisão,276
+9199,Máquina de Café em Cápsulas,555
+9200,Caixa de Som Bluetooth Xtreme,582
+9201,Mesa Digitalizadora,184
+9202,Mesa Digitalizadora,206
+9203,Mouse Vertical Ergonômico,598
+9204,Aspirador de Pó Robô,261
+9205,Caixa de Som Bluetooth Xtreme,596
+9206,Câmera de Vigilância IP,555
+9207,Monitor UltraWide 34,573
+9208,Monitor UltraWide 34,498
+9209,Projetor Portátil LED,578
+9210,Mochila Executiva Antifurto,340
+9211,Mouse Vertical Ergonômico,215
+9212,Impressora a Laser,406
+9213,Filtro de Água de Torneira,561
+9214,Caixa de Som Bluetooth Xtreme,256
+9215,Câmera de Vigilância IP,343
+9216,Cadeira Gamer Confort,485
+9217,Monitor UltraWide 34,560
+9218,Impressora a Laser,354
+9219,Smartphone Z10,427
+9220,Teclado Luminoso,463
+9221,Kit de Chaves de Precisão,149
+9222,Monitor UltraWide 34,599
+9223,Câmera de Vigilância IP,355
+9224,Monitor UltraWide 34,527
+9225,Tablet 11 polegadas,159
+9226,Mochila Executiva Antifurto,592
+9227,Máquina de Café em Cápsulas,470
+9228,Filtro de Água de Torneira,365
+9229,Filtro de Água de Torneira,451
+9230,Máquina de Café em Cápsulas,194
+9231,Panela de Arroz Elétrica,414
+9232,Cadeira de Escritório Tela Mesh,464
+9233,Caixa de Som Bluetooth Xtreme,114
+9234,Batedeira Planetária,119
+9235,Monitor UltraWide 34,197
+9236,Monitor UltraWide 34,466
+9237,Lâmpada Inteligente Wi-Fi,114
+9238,SSD Externo 2TB,544
+9239,Impressora a Laser,310
+9240,Monitor UltraWide 34,341
+9241,Tablet 11 polegadas,295
+9242,Mochila Executiva Antifurto,151
+9243,Notebook Pro S,539
+9244,Microfone Condensador USB,115
+9245,Notebook Pro S,209
+9246,SSD Externo 2TB,383
+9247,Impressora a Laser,263
+9248,Sapato Social de Couro,545
+9249,Tablet 11 polegadas,196
+9250,Aspirador de Pó Robô,592
+9251,Sapato Social de Couro,554
+9252,Teclado Luminoso,263
+9253,Aspirador de Pó Robô,476
+9254,SSD Externo 2TB,373
+9255,Climatizador de Ar,328
+9256,Roteador Mesh 3-pack,313
+9257,Kit de Chaves de Precisão,574
+9258,SSD Externo 2TB,135
+9259,Teclado Luminoso,237
+9260,Cadeira Gamer Confort,501
+9261,SSD Externo 2TB,111
+9262,Climatizador de Ar,230
+9263,Roteador Mesh 3-pack,581
+9264,Teclado Luminoso,241
+9265,Notebook Pro S,325
+9266,Livro: Estruturas de Dados,142
+9267,Fone com Cancelamento de Ruído,358
+9268,Smartwatch Fit Pro,366
+9269,Aspirador de Pó Robô,204
+9270,Projetor Portátil LED,535
+9271,Sapato Social de Couro,572
+9272,Sapato Social de Couro,356
+9273,Mesa Digitalizadora,408
+9274,Panela de Arroz Elétrica,174
+9275,Mouse Vertical Ergonômico,381
+9276,Climatizador de Ar,212
+9277,Lâmpada Inteligente Wi-Fi,219
+9278,Webcam Full HD,122
+9279,Monitor UltraWide 34,131
+9280,Filtro de Água de Torneira,497
+9281,Cadeira de Escritório Tela Mesh,362
+9282,Sapato Social de Couro,563
+9283,Monitor UltraWide 34,414
+9284,Climatizador de Ar,174
+9285,Fone com Cancelamento de Ruído,430
+9286,Microfone Condensador USB,254
+9287,Teclado Luminoso,550
+9288,Lâmpada Inteligente Wi-Fi,199
+9289,Caixa de Som Bluetooth Xtreme,380
+9290,Máquina de Café em Cápsulas,539
+9291,Panela de Arroz Elétrica,231
+9292,Smartphone Z10,407
+9293,Kit de Chaves de Precisão,126
+9294,Filtro de Água de Torneira,481
+9295,Máquina de Café em Cápsulas,192
+9296,Batedeira Planetária,327
+9297,Panela de Arroz Elétrica,562
+9298,Aspirador de Pó Robô,231
+9299,Tablet 11 polegadas,294
+9300,Aspirador de Pó Robô,254
+9301,Impressora a Laser,572
+9302,Panela de Arroz Elétrica,563
+9303,Smartphone Z10,154
+9304,Mouse Vertical Ergonômico,486
+9305,Mouse Vertical Ergonômico,480
+9306,Cadeira Gamer Confort,485
+9307,Sapato Social de Couro,166
+9308,Kit de Chaves de Precisão,303
+9309,Mochila Executiva Antifurto,229
+9310,Livro: Estruturas de Dados,517
+9311,Mochila Executiva Antifurto,544
+9312,Câmera de Vigilância IP,276
+9313,Climatizador de Ar,158
+9314,Cadeira de Escritório Tela Mesh,181
+9315,Kit de Chaves de Precisão,519
+9316,Teclado Luminoso,145
+9317,Notebook Pro S,152
+9318,Webcam Full HD,175
+9319,Caixa de Som Bluetooth Xtreme,389
+9320,Notebook Pro S,354
+9321,Roteador Mesh 3-pack,174
+9322,Máquina de Café em Cápsulas,111
+9323,Livro: Estruturas de Dados,295
+9324,Climatizador de Ar,195
+9325,Mochila Executiva Antifurto,130
+9326,Tablet 11 polegadas,370
+9327,Notebook Pro S,195
+9328,Webcam Full HD,205
+9329,Mouse Vertical Ergonômico,397
+9330,Mesa Digitalizadora,371
+9331,Caixa de Som Bluetooth Xtreme,460
+9332,Smartphone Z10,390
+9333,Mouse Vertical Ergonômico,107
+9334,Mochila Executiva Antifurto,432
+9335,Projetor Portátil LED,189
+9336,Webcam Full HD,577
+9337,Sapato Social de Couro,301
+9338,Batedeira Planetária,212
+9339,Caixa de Som Bluetooth Xtreme,447
+9340,Kit de Chaves de Precisão,131
+9341,Mochila Executiva Antifurto,274
+9342,Climatizador de Ar,271
+9343,Cadeira Gamer Confort,597
+9344,Lâmpada Inteligente Wi-Fi,440
+9345,Notebook Pro S,262
+9346,Projetor Portátil LED,207
+9347,Fone com Cancelamento de Ruído,526
+9348,Projetor Portátil LED,454
+9349,Smartwatch Fit Pro,434
+9350,Sapato Social de Couro,213
+9351,Tablet 11 polegadas,338
+9352,Kit de Chaves de Precisão,470
+9353,Smartwatch Fit Pro,180
+9354,Notebook Pro S,589
+9355,Teclado Luminoso,274
+9356,Mochila Executiva Antifurto,469
+9357,Fone com Cancelamento de Ruído,273
+9358,Lâmpada Inteligente Wi-Fi,425
+9359,Caixa de Som Bluetooth Xtreme,310
+9360,Roteador Mesh 3-pack,257
+9361,Climatizador de Ar,301
+9362,Máquina de Café em Cápsulas,413
+9363,Cadeira de Escritório Tela Mesh,551
+9364,Tablet 11 polegadas,524
+9365,Panela de Arroz Elétrica,237
+9366,Impressora a Laser,286
+9367,Livro: Estruturas de Dados,202
+9368,Câmera de Vigilância IP,383
+9369,Roteador Mesh 3-pack,268
+9370,Smartphone Z10,291
+9371,Livro: Estruturas de Dados,293
+9372,Fone com Cancelamento de Ruído,398
+9373,Aspirador de Pó Robô,182
+9374,Máquina de Café em Cápsulas,142
+9375,Batedeira Planetária,349
+9376,Smartwatch Fit Pro,131
+9377,Impressora a Laser,122
+9378,Fone com Cancelamento de Ruído,488
+9379,Smartwatch Fit Pro,461
+9380,Projetor Portátil LED,239
+9381,Webcam Full HD,454
+9382,Webcam Full HD,436
+9383,Smartwatch Fit Pro,454
+9384,Smartwatch Fit Pro,140
+9385,Filtro de Água de Torneira,483
+9386,Impressora a Laser,531
+9387,Aspirador de Pó Robô,134
+9388,Mesa Digitalizadora,254
+9389,Tablet 11 polegadas,568
+9390,Roteador Mesh 3-pack,266
+9391,Caixa de Som Bluetooth Xtreme,592
+9392,SSD Externo 2TB,239
+9393,Impressora a Laser,393
+9394,Mochila Executiva Antifurto,425
+9395,Notebook Pro S,246
+9396,Lâmpada Inteligente Wi-Fi,372
+9397,Caixa de Som Bluetooth Xtreme,403
+9398,Teclado Luminoso,584
+9399,Lâmpada Inteligente Wi-Fi,504
+9400,Webcam Full HD,200
+9401,Filtro de Água de Torneira,128
+9402,Máquina de Café em Cápsulas,581
+9403,Kit de Chaves de Precisão,434
+9404,Smartphone Z10,352
+9405,SSD Externo 2TB,359
+9406,Batedeira Planetária,112
+9407,Teclado Luminoso,212
+9408,Projetor Portátil LED,467
+9409,Filtro de Água de Torneira,260
+9410,Projetor Portátil LED,286
+9411,Caixa de Som Bluetooth Xtreme,481
+9412,Smartphone Z10,555
+9413,Cadeira de Escritório Tela Mesh,551
+9414,Microfone Condensador USB,424
+9415,Caixa de Som Bluetooth Xtreme,262
+9416,Tablet 11 polegadas,132
+9417,Caixa de Som Bluetooth Xtreme,269
+9418,Sapato Social de Couro,522
+9419,Lâmpada Inteligente Wi-Fi,484
+9420,Climatizador de Ar,483
+9421,Cadeira Gamer Confort,251
+9422,Teclado Luminoso,224
+9423,Smartwatch Fit Pro,347
+9424,Monitor UltraWide 34,292
+9425,Cadeira de Escritório Tela Mesh,355
+9426,Fone com Cancelamento de Ruído,113
+9427,Filtro de Água de Torneira,555
+9428,Máquina de Café em Cápsulas,526
+9429,Fone com Cancelamento de Ruído,280
+9430,Monitor UltraWide 34,593
+9431,Livro: Estruturas de Dados,264
+9432,Mouse Vertical Ergonômico,474
+9433,Cadeira de Escritório Tela Mesh,409
+9434,Caixa de Som Bluetooth Xtreme,384
+9435,Microfone Condensador USB,129
+9436,Fone com Cancelamento de Ruído,552
+9437,Lâmpada Inteligente Wi-Fi,463
+9438,Mouse Vertical Ergonômico,321
+9439,Climatizador de Ar,409
+9440,Máquina de Café em Cápsulas,194
+9441,Livro: Estruturas de Dados,349
+9442,Smartphone Z10,167
+9443,Projetor Portátil LED,443
+9444,Webcam Full HD,387
+9445,Batedeira Planetária,571
+9446,Cadeira Gamer Confort,339
+9447,Caixa de Som Bluetooth Xtreme,158
+9448,Notebook Pro S,250
+9449,Mouse Vertical Ergonômico,361
+9450,Cadeira de Escritório Tela Mesh,564
+9451,Kit de Chaves de Precisão,523
+9452,Cadeira de Escritório Tela Mesh,121
+9453,Sapato Social de Couro,384
+9454,Panela de Arroz Elétrica,106
+9455,Cadeira Gamer Confort,402
+9456,Impressora a Laser,156
+9457,Notebook Pro S,295
+9458,Tablet 11 polegadas,419
+9459,Fone com Cancelamento de Ruído,347
+9460,Câmera de Vigilância IP,434
+9461,Filtro de Água de Torneira,218
+9462,Tablet 11 polegadas,179
+9463,Batedeira Planetária,316
+9464,Batedeira Planetária,391
+9465,Projetor Portátil LED,579
+9466,Smartphone Z10,352
+9467,Smartwatch Fit Pro,286
+9468,Kit de Chaves de Precisão,189
+9469,Smartphone Z10,184
+9470,Panela de Arroz Elétrica,374
+9471,Smartwatch Fit Pro,330
+9472,Smartwatch Fit Pro,383
+9473,Microfone Condensador USB,186
+9474,Lâmpada Inteligente Wi-Fi,538
+9475,Smartwatch Fit Pro,578
+9476,Filtro de Água de Torneira,405
+9477,Caixa de Som Bluetooth Xtreme,160
+9478,Caixa de Som Bluetooth Xtreme,579
+9479,Aspirador de Pó Robô,555
+9480,Notebook Pro S,369
+9481,Smartwatch Fit Pro,371
+9482,Monitor UltraWide 34,552
+9483,Fone com Cancelamento de Ruído,398
+9484,Teclado Luminoso,545
+9485,Cadeira de Escritório Tela Mesh,300
+9486,Microfone Condensador USB,482
+9487,Livro: Estruturas de Dados,136
+9488,Batedeira Planetária,351
+9489,Câmera de Vigilância IP,326
+9490,Filtro de Água de Torneira,545
+9491,Microfone Condensador USB,195
+9492,Teclado Luminoso,455
+9493,Impressora a Laser,427
+9494,SSD Externo 2TB,335
+9495,SSD Externo 2TB,223
+9496,Fone com Cancelamento de Ruído,595
+9497,Projetor Portátil LED,228
+9498,Máquina de Café em Cápsulas,356
+9499,Smartphone Z10,194
+9500,Smartwatch Fit Pro,326
+9501,Webcam Full HD,408
+9502,SSD Externo 2TB,518
+9503,Mesa Digitalizadora,489
+9504,Filtro de Água de Torneira,437
+9505,Aspirador de Pó Robô,492
+9506,Caixa de Som Bluetooth Xtreme,167
+9507,Mesa Digitalizadora,408
+9508,Microfone Condensador USB,572
+9509,Aspirador de Pó Robô,403
+9510,Filtro de Água de Torneira,461
+9511,Climatizador de Ar,331
+9512,SSD Externo 2TB,589
+9513,Sapato Social de Couro,516
+9514,Impressora a Laser,269
+9515,Webcam Full HD,370
+9516,Aspirador de Pó Robô,323
+9517,Tablet 11 polegadas,527
+9518,Mesa Digitalizadora,440
+9519,Monitor UltraWide 34,498
+9520,Batedeira Planetária,137
+9521,Mochila Executiva Antifurto,434
+9522,Mouse Vertical Ergonômico,241
+9523,Caixa de Som Bluetooth Xtreme,120
+9524,Lâmpada Inteligente Wi-Fi,437
+9525,Câmera de Vigilância IP,251
+9526,Mesa Digitalizadora,163
+9527,Microfone Condensador USB,319
+9528,Tablet 11 polegadas,383
+9529,Roteador Mesh 3-pack,304
+9530,Smartphone Z10,382
+9531,Kit de Chaves de Precisão,417
+9532,Kit de Chaves de Precisão,474
+9533,Cadeira de Escritório Tela Mesh,531
+9534,Sapato Social de Couro,461
+9535,Máquina de Café em Cápsulas,542
+9536,Cadeira de Escritório Tela Mesh,404
+9537,Batedeira Planetária,263
+9538,Projetor Portátil LED,489
+9539,Aspirador de Pó Robô,130
+9540,Caixa de Som Bluetooth Xtreme,449
+9541,Livro: Estruturas de Dados,593
+9542,Mouse Vertical Ergonômico,219
+9543,Fone com Cancelamento de Ruído,368
+9544,Fone com Cancelamento de Ruído,452
+9545,Câmera de Vigilância IP,118
+9546,Cadeira Gamer Confort,172
+9547,Livro: Estruturas de Dados,381
+9548,Máquina de Café em Cápsulas,559
+9549,Batedeira Planetária,408
+9550,Climatizador de Ar,266
+9551,Impressora a Laser,489
+9552,Cadeira de Escritório Tela Mesh,359
+9553,Cadeira Gamer Confort,551
+9554,Microfone Condensador USB,408
+9555,Cadeira Gamer Confort,242
+9556,Câmera de Vigilância IP,560
+9557,Climatizador de Ar,394
+9558,Sapato Social de Couro,231
+9559,Mesa Digitalizadora,517
+9560,Impressora a Laser,545
+9561,Kit de Chaves de Precisão,542
+9562,Câmera de Vigilância IP,339
+9563,Smartwatch Fit Pro,172
+9564,Microfone Condensador USB,278
+9565,Climatizador de Ar,165
+9566,Roteador Mesh 3-pack,219
+9567,Livro: Estruturas de Dados,132
+9568,Lâmpada Inteligente Wi-Fi,575
+9569,Fone com Cancelamento de Ruído,413
+9570,Notebook Pro S,373
+9571,Teclado Luminoso,332
+9572,SSD Externo 2TB,135
+9573,Cadeira Gamer Confort,106
+9574,Livro: Estruturas de Dados,246
+9575,Impressora a Laser,249
+9576,Mochila Executiva Antifurto,192
+9577,Microfone Condensador USB,240
+9578,Projetor Portátil LED,159
+9579,Notebook Pro S,262
+9580,SSD Externo 2TB,443
+9581,Impressora a Laser,575
+9582,Kit de Chaves de Precisão,117
+9583,Roteador Mesh 3-pack,137
+9584,Panela de Arroz Elétrica,521
+9585,Teclado Luminoso,352
+9586,Máquina de Café em Cápsulas,251
+9587,Mochila Executiva Antifurto,416
+9588,Webcam Full HD,533
+9589,Impressora a Laser,305
+9590,Cadeira de Escritório Tela Mesh,147
+9591,Tablet 11 polegadas,358
+9592,Teclado Luminoso,203
+9593,Kit de Chaves de Precisão,223
+9594,Aspirador de Pó Robô,440
+9595,Microfone Condensador USB,187
+9596,Cadeira de Escritório Tela Mesh,567
+9597,Mouse Vertical Ergonômico,490
+9598,SSD Externo 2TB,492
+9599,Teclado Luminoso,228
+9600,Cadeira Gamer Confort,126
+9601,Panela de Arroz Elétrica,269
+9602,Fone com Cancelamento de Ruído,478
+9603,Aspirador de Pó Robô,563
+9604,Monitor UltraWide 34,416
+9605,Panela de Arroz Elétrica,427
+9606,Lâmpada Inteligente Wi-Fi,205
+9607,Notebook Pro S,474
+9608,Caixa de Som Bluetooth Xtreme,272
+9609,Mochila Executiva Antifurto,245
+9610,Smartphone Z10,153
+9611,Notebook Pro S,271
+9612,Mouse Vertical Ergonômico,470
+9613,Aspirador de Pó Robô,175
+9614,Roteador Mesh 3-pack,400
+9615,Projetor Portátil LED,350
+9616,Climatizador de Ar,196
+9617,Notebook Pro S,440
+9618,Fone com Cancelamento de Ruído,279
+9619,Aspirador de Pó Robô,421
+9620,Lâmpada Inteligente Wi-Fi,288
+9621,Roteador Mesh 3-pack,499
+9622,Monitor UltraWide 34,289
+9623,Notebook Pro S,285
+9624,Mochila Executiva Antifurto,322
+9625,Projetor Portátil LED,314
+9626,Webcam Full HD,273
+9627,Máquina de Café em Cápsulas,294
+9628,Kit de Chaves de Precisão,266
+9629,Webcam Full HD,441
+9630,Câmera de Vigilância IP,215
+9631,Sapato Social de Couro,330
+9632,Mochila Executiva Antifurto,445
+9633,Teclado Luminoso,339
+9634,Notebook Pro S,279
+9635,Notebook Pro S,108
+9636,Livro: Estruturas de Dados,192
+9637,Webcam Full HD,525
+9638,Monitor UltraWide 34,600
+9639,Batedeira Planetária,399
+9640,Tablet 11 polegadas,152
+9641,Lâmpada Inteligente Wi-Fi,475
+9642,Monitor UltraWide 34,504
+9643,Caixa de Som Bluetooth Xtreme,387
+9644,Monitor UltraWide 34,207
+9645,Webcam Full HD,170
+9646,Roteador Mesh 3-pack,176
+9647,Batedeira Planetária,135
+9648,Notebook Pro S,303
+9649,Smartphone Z10,104
+9650,Tablet 11 polegadas,420
+9651,Climatizador de Ar,556
+9652,Câmera de Vigilância IP,336
+9653,Monitor UltraWide 34,529
+9654,Webcam Full HD,306
+9655,Tablet 11 polegadas,363
+9656,Roteador Mesh 3-pack,131
+9657,Webcam Full HD,266
+9658,Mochila Executiva Antifurto,495
+9659,Projetor Portátil LED,313
+9660,Notebook Pro S,473
+9661,Máquina de Café em Cápsulas,438
+9662,Panela de Arroz Elétrica,457
+9663,Mochila Executiva Antifurto,216
+9664,Microfone Condensador USB,532
+9665,Smartwatch Fit Pro,504
+9666,Caixa de Som Bluetooth Xtreme,518
+9667,Roteador Mesh 3-pack,523
+9668,Panela de Arroz Elétrica,473
+9669,Caixa de Som Bluetooth Xtreme,273
+9670,Mesa Digitalizadora,380
+9671,Teclado Luminoso,506
+9672,Projetor Portátil LED,450
+9673,Monitor UltraWide 34,144
+9674,Teclado Luminoso,360
+9675,Máquina de Café em Cápsulas,292
+9676,Tablet 11 polegadas,230
+9677,SSD Externo 2TB,485
+9678,Impressora a Laser,510
+9679,Caixa de Som Bluetooth Xtreme,347
+9680,Lâmpada Inteligente Wi-Fi,268
+9681,Câmera de Vigilância IP,471
+9682,Livro: Estruturas de Dados,231
+9683,Webcam Full HD,408
+9684,SSD Externo 2TB,335
+9685,Câmera de Vigilância IP,440
+9686,Impressora a Laser,350
+9687,Climatizador de Ar,249
+9688,Filtro de Água de Torneira,186
+9689,Microfone Condensador USB,239
+9690,Máquina de Café em Cápsulas,465
+9691,Projetor Portátil LED,578
+9692,Monitor UltraWide 34,303
+9693,Mesa Digitalizadora,431
+9694,Microfone Condensador USB,449
+9695,Climatizador de Ar,547
+9696,Mesa Digitalizadora,346
+9697,Climatizador de Ar,204
+9698,Câmera de Vigilância IP,594
+9699,Fone com Cancelamento de Ruído,263
+9700,Impressora a Laser,188
+9701,Smartwatch Fit Pro,523
+9702,Smartwatch Fit Pro,370
+9703,Cadeira de Escritório Tela Mesh,112
+9704,Fone com Cancelamento de Ruído,283
+9705,Fone com Cancelamento de Ruído,226
+9706,Smartphone Z10,497
+9707,Tablet 11 polegadas,406
+9708,Tablet 11 polegadas,309
+9709,Roteador Mesh 3-pack,519
+9710,Câmera de Vigilância IP,279
+9711,Lâmpada Inteligente Wi-Fi,296
+9712,Kit de Chaves de Precisão,397
+9713,Climatizador de Ar,112
+9714,Batedeira Planetária,152
+9715,Livro: Estruturas de Dados,251
+9716,SSD Externo 2TB,508
+9717,Roteador Mesh 3-pack,361
+9718,Cadeira de Escritório Tela Mesh,270
+9719,Cadeira de Escritório Tela Mesh,261
+9720,Livro: Estruturas de Dados,449
+9721,Livro: Estruturas de Dados,377
+9722,Mesa Digitalizadora,245
+9723,Mochila Executiva Antifurto,189
+9724,Projetor Portátil LED,344
+9725,Mochila Executiva Antifurto,272
+9726,Kit de Chaves de Precisão,299
+9727,Panela de Arroz Elétrica,395
+9728,Climatizador de Ar,227
+9729,Livro: Estruturas de Dados,542
+9730,Máquina de Café em Cápsulas,121
+9731,Livro: Estruturas de Dados,178
+9732,Mouse Vertical Ergonômico,549
+9733,Teclado Luminoso,272
+9734,Projetor Portátil LED,112
+9735,Smartphone Z10,504
+9736,Máquina de Café em Cápsulas,429
+9737,Climatizador de Ar,194
+9738,Livro: Estruturas de Dados,130
+9739,Smartwatch Fit Pro,132
+9740,Smartphone Z10,392
+9741,Notebook Pro S,137
+9742,Smartphone Z10,256
+9743,Smartphone Z10,460
+9744,Kit de Chaves de Precisão,101
+9745,Kit de Chaves de Precisão,246
+9746,SSD Externo 2TB,235
+9747,Câmera de Vigilância IP,187
+9748,Mouse Vertical Ergonômico,215
+9749,Mouse Vertical Ergonômico,364
+9750,Batedeira Planetária,432
+9751,Mochila Executiva Antifurto,395
+9752,Livro: Estruturas de Dados,570
+9753,Cadeira Gamer Confort,345
+9754,Fone com Cancelamento de Ruído,444
+9755,Kit de Chaves de Precisão,151
+9756,SSD Externo 2TB,328
+9757,Smartphone Z10,560
+9758,Panela de Arroz Elétrica,291
+9759,SSD Externo 2TB,235
+9760,Mochila Executiva Antifurto,316
+9761,Kit de Chaves de Precisão,462
+9762,Caixa de Som Bluetooth Xtreme,167
+9763,Mouse Vertical Ergonômico,266
+9764,Roteador Mesh 3-pack,162
+9765,Smartphone Z10,216
+9766,Teclado Luminoso,574
+9767,Sapato Social de Couro,229
+9768,Cadeira de Escritório Tela Mesh,406
+9769,SSD Externo 2TB,200
+9770,Projetor Portátil LED,383
+9771,Filtro de Água de Torneira,106
+9772,Batedeira Planetária,363
+9773,Roteador Mesh 3-pack,594
+9774,Projetor Portátil LED,161
+9775,Impressora a Laser,294
+9776,Máquina de Café em Cápsulas,173
+9777,Climatizador de Ar,348
+9778,Cadeira Gamer Confort,203
+9779,Cadeira Gamer Confort,381
+9780,Máquina de Café em Cápsulas,385
+9781,Teclado Luminoso,462
+9782,Batedeira Planetária,176
+9783,Tablet 11 polegadas,285
+9784,Smartphone Z10,277
+9785,Cadeira de Escritório Tela Mesh,423
+9786,Fone com Cancelamento de Ruído,463
+9787,Filtro de Água de Torneira,397
+9788,Roteador Mesh 3-pack,559
+9789,Mochila Executiva Antifurto,466
+9790,Cadeira de Escritório Tela Mesh,111
+9791,Smartphone Z10,481
+9792,Mesa Digitalizadora,226
+9793,Teclado Luminoso,542
+9794,Aspirador de Pó Robô,174
+9795,Filtro de Água de Torneira,392
+9796,Mouse Vertical Ergonômico,425
+9797,Microfone Condensador USB,576
+9798,Caixa de Som Bluetooth Xtreme,137
+9799,Teclado Luminoso,345
+9800,Cadeira de Escritório Tela Mesh,546
+9801,Lâmpada Inteligente Wi-Fi,444
+9802,Sapato Social de Couro,443
+9803,Projetor Portátil LED,216
+9804,Sapato Social de Couro,576
+9805,Câmera de Vigilância IP,276
+9806,Microfone Condensador USB,380
+9807,Microfone Condensador USB,590
+9808,Mesa Digitalizadora,208
+9809,Mouse Vertical Ergonômico,133
+9810,Cadeira Gamer Confort,464
+9811,Roteador Mesh 3-pack,320
+9812,Panela de Arroz Elétrica,232
+9813,Sapato Social de Couro,195
+9814,Tablet 11 polegadas,535
+9815,Fone com Cancelamento de Ruído,208
+9816,Máquina de Café em Cápsulas,570
+9817,Cadeira Gamer Confort,118
+9818,Mochila Executiva Antifurto,236
+9819,Mouse Vertical Ergonômico,250
+9820,Caixa de Som Bluetooth Xtreme,321
+9821,Tablet 11 polegadas,149
+9822,Mesa Digitalizadora,331
+9823,Notebook Pro S,213
+9824,Câmera de Vigilância IP,354
+9825,Lâmpada Inteligente Wi-Fi,449
+9826,Batedeira Planetária,180
+9827,SSD Externo 2TB,136
+9828,Microfone Condensador USB,559
+9829,Smartphone Z10,433
+9830,Monitor UltraWide 34,402
+9831,Projetor Portátil LED,572
+9832,Mouse Vertical Ergonômico,592
+9833,Smartwatch Fit Pro,220
+9834,Mesa Digitalizadora,326
+9835,Kit de Chaves de Precisão,487
+9836,Lâmpada Inteligente Wi-Fi,364
+9837,Webcam Full HD,153
+9838,Climatizador de Ar,443
+9839,Projetor Portátil LED,120
+9840,Fone com Cancelamento de Ruído,562
+9841,SSD Externo 2TB,274
+9842,Fone com Cancelamento de Ruído,315
+9843,Lâmpada Inteligente Wi-Fi,129
+9844,Notebook Pro S,374
+9845,Mochila Executiva Antifurto,270
+9846,SSD Externo 2TB,417
+9847,Monitor UltraWide 34,163
+9848,Cadeira Gamer Confort,106
+9849,Smartphone Z10,566
+9850,Filtro de Água de Torneira,285
+9851,Tablet 11 polegadas,388
+9852,Aspirador de Pó Robô,344
+9853,Livro: Estruturas de Dados,208
+9854,Monitor UltraWide 34,380
+9855,Cadeira de Escritório Tela Mesh,353
+9856,Câmera de Vigilância IP,282
+9857,Mochila Executiva Antifurto,534
+9858,Mouse Vertical Ergonômico,567
+9859,Livro: Estruturas de Dados,516
+9860,Webcam Full HD,292
+9861,Câmera de Vigilância IP,529
+9862,Smartphone Z10,510
+9863,SSD Externo 2TB,419
+9864,Cadeira de Escritório Tela Mesh,144
+9865,Cadeira de Escritório Tela Mesh,209
+9866,Webcam Full HD,428
+9867,Roteador Mesh 3-pack,298
+9868,SSD Externo 2TB,559
+9869,Sapato Social de Couro,349
+9870,Microfone Condensador USB,227
+9871,Monitor UltraWide 34,458
+9872,Câmera de Vigilância IP,125
+9873,Cadeira de Escritório Tela Mesh,524
+9874,Câmera de Vigilância IP,382
+9875,Impressora a Laser,185
+9876,Notebook Pro S,176
+9877,Smartwatch Fit Pro,280
+9878,Cadeira Gamer Confort,300
+9879,Monitor UltraWide 34,490
+9880,Aspirador de Pó Robô,430
+9881,Roteador Mesh 3-pack,470
+9882,Teclado Luminoso,443
+9883,Cadeira Gamer Confort,289
+9884,Smartwatch Fit Pro,150
+9885,Máquina de Café em Cápsulas,424
+9886,Lâmpada Inteligente Wi-Fi,194
+9887,Impressora a Laser,517
+9888,Smartphone Z10,372
+9889,Projetor Portátil LED,417
+9890,Smartphone Z10,261
+9891,Climatizador de Ar,291
+9892,Roteador Mesh 3-pack,337
+9893,Caixa de Som Bluetooth Xtreme,178
+9894,Mouse Vertical Ergonômico,141
+9895,Climatizador de Ar,298
+9896,Livro: Estruturas de Dados,265
+9897,Mesa Digitalizadora,229
+9898,Smartphone Z10,160
+9899,SSD Externo 2TB,367
+9900,Fone com Cancelamento de Ruído,104
+9901,Máquina de Café em Cápsulas,381
+9902,Kit de Chaves de Precisão,157
+9903,Impressora a Laser,132
+9904,Sapato Social de Couro,400
+9905,Mochila Executiva Antifurto,516
+9906,Mouse Vertical Ergonômico,247
+9907,Mochila Executiva Antifurto,132
+9908,Aspirador de Pó Robô,272
+9909,Teclado Luminoso,321
+9910,Caixa de Som Bluetooth Xtreme,444
+9911,Notebook Pro S,265
+9912,Câmera de Vigilância IP,219
+9913,Sapato Social de Couro,237
+9914,Projetor Portátil LED,272
+9915,Notebook Pro S,316
+9916,Projetor Portátil LED,463
+9917,Teclado Luminoso,386
+9918,Notebook Pro S,525
+9919,Smartwatch Fit Pro,403
+9920,Aspirador de Pó Robô,197
+9921,Teclado Luminoso,590
+9922,Máquina de Café em Cápsulas,304
+9923,Mouse Vertical Ergonômico,315
+9924,Sapato Social de Couro,346
+9925,Monitor UltraWide 34,249
+9926,Sapato Social de Couro,239
+9927,Livro: Estruturas de Dados,352
+9928,Roteador Mesh 3-pack,157
+9929,Webcam Full HD,286
+9930,Sapato Social de Couro,309
+9931,Monitor UltraWide 34,101
+9932,Batedeira Planetária,474
+9933,Máquina de Café em Cápsulas,520
+9934,Caixa de Som Bluetooth Xtreme,392
+9935,Webcam Full HD,119
+9936,SSD Externo 2TB,552
+9937,Livro: Estruturas de Dados,557
+9938,Mesa Digitalizadora,395
+9939,Livro: Estruturas de Dados,358
+9940,Projetor Portátil LED,229
+9941,Mouse Vertical Ergonômico,430
+9942,Impressora a Laser,348
+9943,Tablet 11 polegadas,157
+9944,Monitor UltraWide 34,282
+9945,Cadeira Gamer Confort,479
+9946,Webcam Full HD,218
+9947,Cadeira Gamer Confort,164
+9948,Roteador Mesh 3-pack,224
+9949,Câmera de Vigilância IP,103
+9950,Mochila Executiva Antifurto,320
+9951,Monitor UltraWide 34,174
+9952,Impressora a Laser,284
+9953,Lâmpada Inteligente Wi-Fi,471
+9954,Livro: Estruturas de Dados,558
+9955,Mouse Vertical Ergonômico,375
+9956,Caixa de Som Bluetooth Xtreme,535
+9957,Impressora a Laser,317
+9958,Kit de Chaves de Precisão,138
+9959,Smartphone Z10,315
+9960,Sapato Social de Couro,341
+9961,Mochila Executiva Antifurto,582
+9962,Câmera de Vigilância IP,378
+9963,Aspirador de Pó Robô,473
+9964,Monitor UltraWide 34,306
+9965,Batedeira Planetária,270
+9966,Microfone Condensador USB,141
+9967,Filtro de Água de Torneira,532
+9968,Lâmpada Inteligente Wi-Fi,151
+9969,Monitor UltraWide 34,554
+9970,Livro: Estruturas de Dados,171
+9971,Máquina de Café em Cápsulas,580
+9972,Smartphone Z10,530
+9973,Projetor Portátil LED,446
+9974,Máquina de Café em Cápsulas,435
+9975,Monitor UltraWide 34,324
+9976,Mesa Digitalizadora,141
+9977,Batedeira Planetária,574
+9978,Climatizador de Ar,436
+9979,Monitor UltraWide 34,293
+9980,Monitor UltraWide 34,445
+9981,Câmera de Vigilância IP,510
+9982,Caixa de Som Bluetooth Xtreme,219
+9983,Panela de Arroz Elétrica,274
+9984,Teclado Luminoso,571
+9985,Aspirador de Pó Robô,440
+9986,Lâmpada Inteligente Wi-Fi,203
+9987,Filtro de Água de Torneira,544
+9988,Câmera de Vigilância IP,524
+9989,Monitor UltraWide 34,261
+9990,Climatizador de Ar,354
+9991,Webcam Full HD,187
+9992,Smartphone Z10,449
+9993,Mochila Executiva Antifurto,165
+9994,Tablet 11 polegadas,489
+9995,Cadeira de Escritório Tela Mesh,510
+9996,Notebook Pro S,200
+9997,Projetor Portátil LED,116
+9998,Webcam Full HD,110
+9999,Batedeira Planetária,339
+10000,Projetor Portátil LED,301
+10001,Mochila Executiva Antifurto,339
+10002,Webcam Full HD,168
+10003,Smartphone Z10,291
+10004,Climatizador de Ar,485
+10005,Projetor Portátil LED,573
+10006,Monitor UltraWide 34,115
+10007,Kit de Chaves de Precisão,193
+10008,Smartphone Z10,596
+10009,Kit de Chaves de Precisão,159
+10010,Roteador Mesh 3-pack,457
+10011,Máquina de Café em Cápsulas,240
+10012,SSD Externo 2TB,263
+10013,Caixa de Som Bluetooth Xtreme,413
+10014,Kit de Chaves de Precisão,438
+10015,Filtro de Água de Torneira,328
+10016,Livro: Estruturas de Dados,137
+10017,Câmera de Vigilância IP,335
+10018,Teclado Luminoso,347
+10019,Microfone Condensador USB,519
+10020,Projetor Portátil LED,490
+10021,Microfone Condensador USB,411
+10022,Caixa de Som Bluetooth Xtreme,168
+10023,SSD Externo 2TB,211
+10024,Impressora a Laser,389
+10025,Roteador Mesh 3-pack,552
+10026,Panela de Arroz Elétrica,278
+10027,Smartphone Z10,373
+10028,Microfone Condensador USB,406
+10029,Mochila Executiva Antifurto,593
+10030,Teclado Luminoso,553
+10031,Cadeira de Escritório Tela Mesh,443
+10032,Mouse Vertical Ergonômico,482
+10033,Monitor UltraWide 34,202
+10034,Sapato Social de Couro,216
+10035,Mouse Vertical Ergonômico,123
+10036,Smartphone Z10,117
+10037,Smartwatch Fit Pro,375
+10038,Caixa de Som Bluetooth Xtreme,494
+10039,Smartphone Z10,185
+10040,SSD Externo 2TB,428
+10041,Sapato Social de Couro,439
+10042,Fone com Cancelamento de Ruído,195
+10043,Notebook Pro S,430
+10044,Filtro de Água de Torneira,406
+10045,Monitor UltraWide 34,519
+10046,Projetor Portátil LED,137
+10047,Cadeira Gamer Confort,151
+10048,Kit de Chaves de Precisão,135
+10049,Microfone Condensador USB,457
+10050,Monitor UltraWide 34,435
+10051,Mochila Executiva Antifurto,282
+10052,Caixa de Som Bluetooth Xtreme,567
+10053,Mouse Vertical Ergonômico,203
+10054,Mesa Digitalizadora,151
+10055,Batedeira Planetária,156
+10056,Livro: Estruturas de Dados,492
+10057,Máquina de Café em Cápsulas,198
+10058,Kit de Chaves de Precisão,216
+10059,Câmera de Vigilância IP,548
+10060,Notebook Pro S,441
+10061,Kit de Chaves de Precisão,462
+10062,Fone com Cancelamento de Ruído,579
+10063,Lâmpada Inteligente Wi-Fi,387
+10064,Mochila Executiva Antifurto,306
+10065,Projetor Portátil LED,244
+10066,Smartphone Z10,212
+10067,Panela de Arroz Elétrica,129
+10068,Notebook Pro S,241
+10069,Mochila Executiva Antifurto,109
+10070,Roteador Mesh 3-pack,140
+10071,Sapato Social de Couro,191
+10072,Webcam Full HD,544
+10073,Fone com Cancelamento de Ruído,280
+10074,Cadeira Gamer Confort,186
+10075,Microfone Condensador USB,426
+10076,Mesa Digitalizadora,449
+10077,Smartphone Z10,132
+10078,Tablet 11 polegadas,478
+10079,Notebook Pro S,135
+10080,Projetor Portátil LED,324
+10081,Fone com Cancelamento de Ruído,592
+10082,Cadeira Gamer Confort,597
+10083,Fone com Cancelamento de Ruído,543
+10084,Webcam Full HD,172
+10085,Impressora a Laser,516
+10086,Mouse Vertical Ergonômico,290
+10087,Sapato Social de Couro,575
+10088,Teclado Luminoso,167
+10089,Mouse Vertical Ergonômico,132
+10090,Filtro de Água de Torneira,269
+10091,Climatizador de Ar,301
+10092,Roteador Mesh 3-pack,442
+10093,Cadeira Gamer Confort,402
+10094,Projetor Portátil LED,232
+10095,Climatizador de Ar,526
+10096,Mouse Vertical Ergonômico,338
+10097,Projetor Portátil LED,106
+10098,Mouse Vertical Ergonômico,478
+10099,Máquina de Café em Cápsulas,588
+10100,Panela de Arroz Elétrica,252
+10101,Kit de Chaves de Precisão,280
+10102,Notebook Pro S,558
+10103,Lâmpada Inteligente Wi-Fi,139
+10104,Smartphone Z10,464
+10105,Roteador Mesh 3-pack,497
+10106,Climatizador de Ar,538
+10107,Mouse Vertical Ergonômico,494
+10108,Sapato Social de Couro,282
+10109,Batedeira Planetária,397
+10110,Smartwatch Fit Pro,534
+10111,Microfone Condensador USB,459
+10112,Mesa Digitalizadora,426
+10113,Mesa Digitalizadora,267
+10114,Kit de Chaves de Precisão,195
+10115,Kit de Chaves de Precisão,181
+10116,Smartwatch Fit Pro,283
+10117,Caixa de Som Bluetooth Xtreme,230
+10118,Câmera de Vigilância IP,576
+10119,Cadeira de Escritório Tela Mesh,295
+10120,Smartwatch Fit Pro,283
+10121,Webcam Full HD,361
+10122,Mochila Executiva Antifurto,344
+10123,Impressora a Laser,435
+10124,Sapato Social de Couro,374
+10125,Mochila Executiva Antifurto,458
+10126,Microfone Condensador USB,260
+10127,Caixa de Som Bluetooth Xtreme,422
+10128,Câmera de Vigilância IP,529
+10129,Projetor Portátil LED,462
+10130,Mesa Digitalizadora,317
+10131,Microfone Condensador USB,379
+10132,Filtro de Água de Torneira,553
+10133,SSD Externo 2TB,281
+10134,Filtro de Água de Torneira,452
+10135,Caixa de Som Bluetooth Xtreme,521
+10136,Filtro de Água de Torneira,499
+10137,Máquina de Café em Cápsulas,231
+10138,Smartphone Z10,155
+10139,Monitor UltraWide 34,316
+10140,Mochila Executiva Antifurto,474
+10141,Mochila Executiva Antifurto,155
+10142,Kit de Chaves de Precisão,217
+10143,SSD Externo 2TB,354
+10144,Tablet 11 polegadas,593
+10145,Teclado Luminoso,565
+10146,Mouse Vertical Ergonômico,420
+10147,Notebook Pro S,561
+10148,Climatizador de Ar,218
+10149,Webcam Full HD,560
+10150,Microfone Condensador USB,159
+10151,Fone com Cancelamento de Ruído,300
+10152,SSD Externo 2TB,293
+10153,Livro: Estruturas de Dados,149
+10154,Mochila Executiva Antifurto,307
+10155,Smartphone Z10,504
+10156,Cadeira de Escritório Tela Mesh,510
+10157,Lâmpada Inteligente Wi-Fi,585
+10158,Mochila Executiva Antifurto,528
+10159,Mouse Vertical Ergonômico,270
+10160,Projetor Portátil LED,127
+10161,Smartphone Z10,488
+10162,Batedeira Planetária,336
+10163,Batedeira Planetária,513
+10164,Projetor Portátil LED,538
+10165,Filtro de Água de Torneira,193
+10166,Fone com Cancelamento de Ruído,141
+10167,Mochila Executiva Antifurto,223
+10168,Teclado Luminoso,467
+10169,SSD Externo 2TB,425
+10170,Smartphone Z10,347
+10171,Cadeira Gamer Confort,313
+10172,Batedeira Planetária,274
+10173,Máquina de Café em Cápsulas,390
+10174,Roteador Mesh 3-pack,457
+10175,Câmera de Vigilância IP,397
+10176,Roteador Mesh 3-pack,226
+10177,Mochila Executiva Antifurto,152
+10178,Aspirador de Pó Robô,182
+10179,Notebook Pro S,374
+10180,Mesa Digitalizadora,121
+10181,SSD Externo 2TB,213
+10182,Cadeira de Escritório Tela Mesh,351
+10183,Filtro de Água de Torneira,176
+10184,Aspirador de Pó Robô,478
+10185,Lâmpada Inteligente Wi-Fi,215
+10186,Monitor UltraWide 34,557
+10187,Mouse Vertical Ergonômico,442
+10188,Sapato Social de Couro,234
+10189,Smartphone Z10,507
+10190,Mouse Vertical Ergonômico,428
+10191,Mouse Vertical Ergonômico,550
+10192,Projetor Portátil LED,540
+10193,Smartwatch Fit Pro,390
+10194,Mesa Digitalizadora,308
+10195,Batedeira Planetária,270
+10196,Teclado Luminoso,177
+10197,Mesa Digitalizadora,538
+10198,Smartphone Z10,349
+10199,SSD Externo 2TB,510
+10200,Teclado Luminoso,515

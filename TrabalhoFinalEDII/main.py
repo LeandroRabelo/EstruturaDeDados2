@@ -3,6 +3,8 @@ import random
 from Dados.clientes import carregar_clientes, cadastrar_cliente, remover_cliente
 from Dados.pedidos import carregar_pedidos, cadastrar_pedido, remover_pedido
 from modulo1.buscas import busca_sequencial, busca_binaria, busca_rabin_karp
+from modulo2.desafios_mod2 import menu_compressao
+
 
 def executar_desafio_1():
     print("\n" + "="*50)
@@ -274,25 +276,49 @@ def menu_gerenciar_pedidos():
             print("Opção inválida! Tente novamente.")
             input("\nPressione Enter para continuar...")
 
+def menu_otimizacao():
+    """Menu para os desafios de otimização do Módulo 2."""
+    while True:
+        print("\n--- Módulo 2: Otimização de Recursos ---")
+        print("1. Desafio de Compressão (Huffman)")
+        print("2. Desafio de Acesso Rápido (Hashing) (Em breve)")
+        print("0. Voltar ao Menu Principal")
+        
+        escolha = input("Escolha uma opção: ").strip()
+        
+        if escolha == '1':
+            menu_compressao()
+        elif escolha == '2':
+            print("Funcionalidade de Hashing ainda não implementada.")
+        elif escolha == '0':
+            break
+        else:
+            print("Opção inválida!")
+            
 def main():
     while True:
         print("\n--- Logística Inteligente - Menu Principal ---")
-        print("1. Executar Desafios de Análise de Algoritmos")
-        print("2. Gerenciar Clientes")
-        print("3. Gerenciar Pedidos")
+        print("1. Módulo 1: Desafios de Busca")
+        print("2. Módulo 2: Desafios de Otimização")
+        print("3. Gerenciar Clientes")
+        print("4. Gerenciar Pedidos")
         print("0. Sair")
-        escolha = input("Escolha uma opção: ")
+        
+        escolha = input("Escolha uma opção: ").strip()
+        
         if escolha == '1':
             menu_desafios()
         elif escolha == '2':
-            menu_gerenciar_clientes()
+            menu_otimizacao()
         elif escolha == '3':
+            menu_gerenciar_clientes()
+        elif escolha == '4':
             menu_gerenciar_pedidos()
         elif escolha == '0':
             print("Saindo do sistema...")
             break
         else:
             print("Opção inválida! Tente novamente.")
-
+            
 if __name__ == "__main__":
     main()

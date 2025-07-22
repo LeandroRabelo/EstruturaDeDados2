@@ -21,7 +21,8 @@ CIDADES = [
 
 NUMERO_CLIENTES = 10000
 ID_INICIAL = 101
-NOME_ARQUIVO = os.path.join('Dados', 'clientes.txt')
+DIRETORIO_DO_PROJETO = os.path.dirname(os.path.abspath(__file__))
+NOME_ARQUIVO = os.path.join(DIRETORIO_DO_PROJETO,'Dados', 'clientes.txt')
 
 def gerar_clientes():
     """Gera uma lista de clientes e salva em um arquivo .txt."""

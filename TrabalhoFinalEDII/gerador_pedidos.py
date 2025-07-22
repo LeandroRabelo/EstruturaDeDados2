@@ -15,8 +15,8 @@ ID_PEDIDO_INICIAL = 9001
 
 ID_CLIENTE_MIN = 101
 ID_CLIENTE_MAX = 600
-
-NOME_ARQUIVO = os.path.join('Dados', 'pedidos.txt')
+DIRETORIO_DO_PROJETO = os.path.dirname(os.path.abspath(__file__))
+NOME_ARQUIVO = os.path.join(DIRETORIO_DO_PROJETO, 'Dados', 'pedidos.txt')
 
 def gerar_pedidos():
     """Gera uma lista de pedidos e salva em um arquivo .txt."""
