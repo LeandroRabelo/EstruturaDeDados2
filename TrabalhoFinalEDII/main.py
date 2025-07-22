@@ -3,7 +3,7 @@ import random
 from Dados.clientes import carregar_clientes, cadastrar_cliente, remover_cliente
 from Dados.pedidos import carregar_pedidos, cadastrar_pedido, remover_pedido
 from modulo1.buscas import busca_sequencial, busca_binaria, busca_rabin_karp
-from modulo2.desafios_mod2 import menu_compressao
+from modulo2.desafios_mod2 import menu_compressao, menu_hashing
 
 
 def executar_desafio_1():
@@ -277,11 +277,10 @@ def menu_gerenciar_pedidos():
             input("\nPressione Enter para continuar...")
 
 def menu_otimizacao():
-    """Menu para os desafios de otimização do Módulo 2."""
     while True:
         print("\n--- Módulo 2: Otimização de Recursos ---")
         print("1. Desafio de Compressão (Huffman)")
-        print("2. Desafio de Acesso Rápido (Hashing) (Em breve)")
+        print("2. Desafio de Acesso Rápido (Hashing)")
         print("0. Voltar ao Menu Principal")
         
         escolha = input("Escolha uma opção: ").strip()
@@ -289,7 +288,7 @@ def menu_otimizacao():
         if escolha == '1':
             menu_compressao()
         elif escolha == '2':
-            print("Funcionalidade de Hashing ainda não implementada.")
+            menu_hashing()
         elif escolha == '0':
             break
         else:
