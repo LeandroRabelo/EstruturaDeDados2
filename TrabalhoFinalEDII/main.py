@@ -4,7 +4,7 @@ from Dados.clientes import carregar_clientes, cadastrar_cliente, remover_cliente
 from Dados.pedidos import carregar_pedidos, cadastrar_pedido, remover_pedido
 from modulo1.buscas import busca_sequencial, busca_binaria, busca_rabin_karp
 from modulo2.desafios_mod2 import menu_compressao, menu_hashing
-
+from modulo3.desafios_mod3 import menu_desafios_grafos
 
 def executar_desafio_1():
     print("\n" + "="*50)
@@ -299,8 +299,9 @@ def main():
         print("\n--- Logística Inteligente - Menu Principal ---")
         print("1. Módulo 1: Desafios de Busca")
         print("2. Módulo 2: Desafios de Otimização")
-        print("3. Gerenciar Clientes")
-        print("4. Gerenciar Pedidos")
+        print("3. Módulo 3: Desafios de Malha Logística (Grafos)")
+        print("4. Gerenciar Clientes")
+        print("5. Gerenciar Pedidos")
         print("0. Sair")
         
         escolha = input("Escolha uma opção: ").strip()
@@ -310,14 +311,16 @@ def main():
         elif escolha == '2':
             menu_otimizacao()
         elif escolha == '3':
-            menu_gerenciar_clientes()
+            menu_desafios_grafos()
         elif escolha == '4':
+            menu_gerenciar_clientes()
+        elif escolha == '5':
             menu_gerenciar_pedidos()
         elif escolha == '0':
             print("Saindo do sistema...")
             break
         else:
             print("Opção inválida! Tente novamente.")
-            
+
 if __name__ == "__main__":
     main()

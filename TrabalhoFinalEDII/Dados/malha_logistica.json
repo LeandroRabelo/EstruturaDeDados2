@@ -1,0 +1,171 @@
+{
+    "locais": [
+        "Cuiaba",
+        "Belo Horizonte",
+        "Belem",
+        "Florianopolis",
+        "Recife",
+        "Curitiba",
+        "Aracaju",
+        "Rio de Janeiro",
+        "Manaus",
+        "Natal",
+        "Fortaleza",
+        "Teresina",
+        "Porto Alegre",
+        "Brasilia",
+        "Vitoria"
+    ],
+    "rotas": [
+        {
+            "origem": "Cuiaba",
+            "destino": "Belo Horizonte",
+            "custo": 1528
+        },
+        {
+            "origem": "Belo Horizonte",
+            "destino": "Belem",
+            "custo": 980
+        },
+        {
+            "origem": "Belem",
+            "destino": "Florianopolis",
+            "custo": 428
+        },
+        {
+            "origem": "Florianopolis",
+            "destino": "Recife",
+            "custo": 806
+        },
+        {
+            "origem": "Recife",
+            "destino": "Curitiba",
+            "custo": 1857
+        },
+        {
+            "origem": "Curitiba",
+            "destino": "Aracaju",
+            "custo": 1018
+        },
+        {
+            "origem": "Aracaju",
+            "destino": "Rio de Janeiro",
+            "custo": 1798
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Manaus",
+            "custo": 477
+        },
+        {
+            "origem": "Manaus",
+            "destino": "Natal",
+            "custo": 333
+        },
+        {
+            "origem": "Natal",
+            "destino": "Fortaleza",
+            "custo": 1375
+        },
+        {
+            "origem": "Fortaleza",
+            "destino": "Teresina",
+            "custo": 541
+        },
+        {
+            "origem": "Teresina",
+            "destino": "Porto Alegre",
+            "custo": 1080
+        },
+        {
+            "origem": "Porto Alegre",
+            "destino": "Brasilia",
+            "custo": 823
+        },
+        {
+            "origem": "Brasilia",
+            "destino": "Vitoria",
+            "custo": 463
+        },
+        {
+            "origem": "Vitoria",
+            "destino": "Manaus",
+            "custo": 915
+        },
+        {
+            "origem": "Belem",
+            "destino": "Curitiba",
+            "custo": 351
+        },
+        {
+            "origem": "Manaus",
+            "destino": "Fortaleza",
+            "custo": 678
+        },
+        {
+            "origem": "Natal",
+            "destino": "Belem",
+            "custo": 1796
+        },
+        {
+            "origem": "Belem",
+            "destino": "Vitoria",
+            "custo": 1896
+        },
+        {
+            "origem": "Curitiba",
+            "destino": "Teresina",
+            "custo": 432
+        },
+        {
+            "origem": "Vitoria",
+            "destino": "Porto Alegre",
+            "custo": 348
+        },
+        {
+            "origem": "Fortaleza",
+            "destino": "Belem",
+            "custo": 599
+        },
+        {
+            "origem": "Cuiaba",
+            "destino": "Curitiba",
+            "custo": 1677
+        },
+        {
+            "origem": "Belo Horizonte",
+            "destino": "Natal",
+            "custo": 1730
+        },
+        {
+            "origem": "Natal",
+            "destino": "Rio de Janeiro",
+            "custo": 1762
+        },
+        {
+            "origem": "Teresina",
+            "destino": "Manaus",
+            "custo": 1732
+        },
+        {
+            "origem": "Vitoria",
+            "destino": "Florianopolis",
+            "custo": 1468
+        },
+        {
+            "origem": "Teresina",
+            "destino": "Belem",
+            "custo": 388
+        },
+        {
+            "origem": "Teresina",
+            "destino": "Natal",
+            "custo": 981
+        },
+        {
+            "origem": "Fortaleza",
+            "destino": "Belo Horizonte",
+            "custo": 608
+        }
+    ]
+}
