@@ -41,18 +41,17 @@ def desafio_escalonamento():
     print("Um centro de distribuição precisa agendar o máximo de tarefas de carregamento")
     print("em uma única doca, sem sobreposição de horários.\n")
 
-    # --- Geração de dados aleatórios ---
     nomes_tarefas = ["Carga de Grãos", "Descarga de Eletrônicos", "Manutenção", 
                      "Carga de Perecíveis", "Inspeção", "Descarga Têxtil", 
                      "Carga Refrigerada", "Coleta de Resíduos"]
     solicitacoes_doca = []
     horario_base = 8.0
-    for _ in range(random.randint(5, 8)): # Gera entre 5 e 8 solicitações
+    for _ in range(random.randint(5, 8)):
         nome = random.choice(nomes_tarefas)
         inicio = round(random.uniform(horario_base, horario_base + 3), 1)
         fim = round(inicio + random.uniform(1.5, 3.0), 1)
         solicitacoes_doca.append({'nome': nome, 'inicio': inicio, 'fim': fim})
-        horario_base = inicio + 0.5 # Garante algum avanço no tempo
+        horario_base = inicio + 0.5
 
     print("Solicitações aleatórias recebidas para a doca hoje:")
     for tarefa in sorted(solicitacoes_doca, key=lambda x: x['inicio']):
@@ -73,7 +72,6 @@ def desafio_mochila_fracionaria():
     print("Um caminhão graneleiro com capacidade limitada precisa ser carregado com diferentes")
     print("produtos (que podem ser fracionados) para maximizar o valor total da carga.\n")
 
-    # --- Geração de dados aleatórios ---
     nomes_produtos = ["Minério de Ferro", "Soja", "Milho", "Bauxita", "Fertilizantes", "Sal"]
     produtos_a_granel = []
     for nome in random.sample(nomes_produtos, random.randint(3, 4)):
@@ -104,7 +102,6 @@ def desafio_mochila_01():
     print("Uma van com limite de peso precisa ser carregada com pacotes indivisíveis.")
     print("O objetivo é escolher quais pacotes levar para maximizar o valor da entrega,\nrespeitando a capacidade máxima.\n")
 
-    # --- Geração de dados aleatórios ---
     nomes_pacotes = ["Notebook Gamer", "Console", "Sistema de Som", "Peças de Motor",
                      "Equip. Médico", "Roteador Industrial", "Drone Profissional"]
     pacotes = []
